@@ -1,0 +1,651 @@
+﻿idempleado;nombreempleado;apellidoempleado;puesto;oficina;idjefe;nombrejefe;idevaluaciondesempeño;evaluaciondesempeñodesc;calificacionempleadoajefe;sentimiento;categoriasentimiento;idgenero;genero;idestadomarital;descestadomarital;encuestassatisfaccion;canalreclutamiento;salario;hijos;horasextraultimotrimestre
+1;Desaree;Hansen;Supervisora De Alojamiento;Sudáfrica;4;Bianca Miko;3;Aceptable;4;-0,8;Negativo;1;M;0;Soltero;5;CV en persona;49899;SI;4
+2;Praneetf;Terres;Supervisora De Alojamiento;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;5;0;Neutro;1;M;1;Casado;3;Página empresa;57973;SI;1
+3;Spenser;Macpherson;Supervisora De Alojamiento;Sudáfrica;6;Charles Cecchini;5;Excelente;3;-0,02216;Negativo;0;F;1;Casado;3;Página empresa;37717;SI;1
+4;Ola;Gottschalk;Contador;Sudáfrica;6;Charles Cecchini;3;Aceptable;1;-0,001;Negativo;0;F;1;Casado;5;CV en persona;35466;SI;1
+5;Loren;Doty;Contador;Sudáfrica;6;Charles Cecchini;2;Regular;3;-0,001;Negativo;0;F;2;Divorciado;4;Página empresa;36750;SI;2
+6;Slade;Whitham;Contador;Sudáfrica;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;2;-0,0317;Negativo;0;F;0;Soltero;5;CV en persona;47291;SI;5
+7;Karee;Kirby;Contabilidad Y Administración;Sudáfrica;7;Abagael Prat;5;Excelente;4;0;Neutro;0;F;0;Soltero;3;Web empleos;53868;SI;4
+8;Moyna;Sedcole;Contabilidad Y Administración;Sudáfrica;7;Abagael Prat;1;Programa de Mejora del Rendimiento;4;;Sin evaluar;1;M;4;Viudo;4;CV en persona;60110;SI;4
+9;Tracy;Ronsman; Asistente De Cuentas;Sudáfrica;3;Willi Miyake;2;Regular;4;-0,010119048;Negativo;0;F;0;Soltero;3;LinkedIn;52293;SI;3
+10;Milli;Pinelis; Asistente De Cuentas;Sudáfrica;5;Gusti Renshaw;2;Regular;5;0;Neutro;1;M;2;Divorciado;5;CV en persona;52720;SI;3
+11;Marley;Pace; Asistente De Cuentas;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;5;0,103409091;Positivo;0;F;1;Casado;4;CV en persona;48286;SI;2
+12;Laney;Dunnett; Asistente De Cuentas;Sudáfrica;3;Willi Miyake;2;Regular;3;0,266666667;Positivo;1;M;1;Casado;3;Página empresa;34183;SI;2
+13;Celinda;Engel;Director Interino De País;Sudáfrica;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;5;0,30952381;Positivo;1;M;2;Divorciado;4;CV en persona;33707;SI;4
+14;Yvette;Santos;Gerente Interino De Operaciones;Sudáfrica;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;1;-0,01141;Negativo;1;M;0;Soltero;4;CV en persona;40990;SI;5
+15;Clarke;Donoff;Asistente Administrativo;Sudáfrica;3;Willi Miyake;4;Muy bueno;5;0,12;Positivo;1;M;2;Divorciado;5;Referido;44517;SI;1
+16;Horacio;Skane;Asistente Administrativo;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;3;0,31953125;Positivo;1;M;0;Soltero;4;CV en persona;55380;SI;4
+17;Templeton;Asani;Administrador;Sudáfrica;5;Gusti Renshaw;3;Aceptable;5;0,127272727;Positivo;0;F;1;Casado;3;CV en persona;37718;SI;1
+18;Rosette;Trepicchio;Administrador;Sudáfrica;6;Charles Cecchini;2;Regular;1;-0,022222222;Negativo;0;F;0;Soltero;5;LinkedIn;35027;SI;3
+19;Eden;Boorstin;Administrador;Sudáfrica;7;Abagael Prat;2;Regular;5;-0,07;Negativo;0;F;0;Soltero;4;CV en persona;31124;SI;2
+20;Ciel;Hymans;Administrador;Sudáfrica;6;Charles Cecchini;4;Muy bueno;2;-0,05368;Negativo;1;M;0;Soltero;4;LinkedIn;46281;SI;3
+21;Alexine;Southmayd;Administrador;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;3;0;Neutro;1;M;0;Soltero;3;CV en persona;50285;SI;5
+22;Edithe;Acker;Administrador;Sudáfrica;5;Gusti Renshaw;3;Aceptable;5;0;Neutro;0;F;2;Divorciado;3;CV en persona;55091;SI;1
+23;Lenee;Dailey;Administrador;Sudáfrica;7;Abagael Prat;5;Excelente;5;0,625;Positivo;0;F;1;Casado;3;Página empresa;32349;SI;3
+24;Mollie;Katzman;Administrador;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;0,516339286;Positivo;0;F;0;Soltero;3;CV en persona;48063;SI;4
+25;Torrence;Kelker;Administrador;Sudáfrica;6;Charles Cecchini;5;Excelente;1;-0,05971;Negativo;0;F;0;Soltero;5;Página empresa;39725;SI;4
+26;Burke;Hambly;Administrador;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;5;0,287878788;Positivo;1;M;0;Soltero;5;CV en persona;43231;SI;2
+27;Ealasaid;Joltes;Administrador;Sudáfrica;7;Abagael Prat;4;Muy bueno;4;0,175;Positivo;0;F;1;Casado;4;CV en persona;30386;SI;4
+28;Agneta;Opie;Administrador;Sudáfrica;5;Gusti Renshaw;2;Regular;5;0,274090909;Positivo;1;M;0;Soltero;3;CV en persona;44340;SI;2
+29;Cris;Lieberthal;Administrador;Sudáfrica;3;Willi Miyake;5;Excelente;3;0,101515152;Positivo;0;F;1;Casado;4;Página empresa;49323;SI;3
+30;Herve;Gjurasic;Administrador;Sudáfrica;1;Helen Toomer;2;Regular;5;0;Neutro;0;F;1;Casado;2;LinkedIn;32718;SI;2
+31;Roddie;Lawler;Administrador;Sudáfrica;3;Willi Miyake;4;Muy bueno;5;;Sin evaluar;1;M;0;Soltero;3;Página empresa;41174;SI;3
+32;Clerissa;Penman;Administrador;Sudáfrica;1;Helen Toomer;2;Regular;5;0,323863636;Positivo;0;F;3;Separado;5;CV en persona;44571;SI;5
+33;Konstance;Leis;Coordinador De Antiguos Alumnos;Sudáfrica;4;Bianca Miko;2;Regular;5;-0,033333333;Negativo;0;F;1;Casado;5;Página empresa;51653;SI;3
+34;Ruthann;Chiodi;Arqueólogo;Sudáfrica;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,8;Positivo;0;F;0;Soltero;4;CV en persona;39536;SI;1
+35;Sanford;Budiansky;Arqueólogo;Sudáfrica;6;Charles Cecchini;3;Aceptable;1;-0,04065;Negativo;1;M;1;Casado;5;Página empresa;55444;SI;5
+36;Eleonore;Waugh;Arqueólogo;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0;Neutro;1;M;0;Soltero;3;Feria de empleo;59546;SI;4
+37;Englebart;Scalese;Asistente De Proyecto De Arqueología;Sudáfrica;3;Willi Miyake;3;Aceptable;5;0,608333333;Positivo;1;M;0;Soltero;3;Página empresa;43984;SI;2
+38;Cesar;Huey;Asistente De Proyecto De Arqueología;Sudáfrica;6;Charles Cecchini;2;Regular;2;-0,03847;Negativo;0;F;0;Soltero;4;Página empresa;60257;SI;4
+39;Kellen;Orr;Supervisor De Arqueología;Sudáfrica;6;Charles Cecchini;2;Regular;3;-0,03792;Negativo;1;M;0;Soltero;3;CV en persona;41721;SI;2
+40;Romeo;Ferme;Supervisor De Arqueología;Sudáfrica;4;Bianca Miko;3;Aceptable;2;0,17;Positivo;0;F;0;Soltero;5;LinkedIn;33400;SI;5
+41;Ellette;Ree;Supervisor De Arqueología;Sudáfrica;2;Lancelot Schaefer;5;Excelente;5;0,8;Positivo;0;F;0;Soltero;5;Página empresa;43737;SI;5
+42;Angus;Corgain;Supervisor De Arqueología;Sudáfrica;3;Willi Miyake;2;Regular;3;0,6;Positivo;0;F;0;Soltero;4;CV en persona;48547;SI;5
+43;Norina;Weingarten;Supervisor De Arqueología;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0;Neutro;1;M;1;Casado;5;CV en persona;40230;SI;3
+44;Linoel;Planansky;Coordinador Asistente;Sudáfrica;5;Gusti Renshaw;2;Regular;4;0,05;Negativo;0;F;0;Soltero;4;CV en persona;52734;SI;3
+45;Jamie;Schulze;Coordinador Asistente;Sudáfrica;1;Helen Toomer;2;Regular;5;0,152;Positivo;1;M;0;Soltero;5;CV en persona;36946;SI;4
+46;Cecile;Migliorini;Subdirector;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0,36547619;Positivo;1;M;0;Soltero;5;CV en persona;44672;SI;2
+47;Geoffrey;Pilot;Subdirector;Sudáfrica;3;Willi Miyake;2;Regular;5;;Sin evaluar;0;F;0;Soltero;4;LinkedIn;55004;SI;1
+48;Abner;Seale;Subdirector;Sudáfrica;3;Willi Miyake;2;Regular;5;0,241818182;Positivo;0;F;0;Soltero;5;Web empleos;35484;SI;1
+49;Skipton;Pritsinas;Biólogo;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;3;0;Neutro;1;M;0;Soltero;3;LinkedIn;43831;SI;3
+50;Dee Dee;Malecot;Coordinador De Edificio;Sudáfrica;7;Abagael Prat;4;Muy bueno;5;0;Neutro;0;F;1;Casado;5;CV en persona;54358;SI;2
+51;Dolley;Larosa;Coordinador De Edificio;Sudáfrica;4;Bianca Miko;2;Regular;5;0;Neutro;1;M;1;Casado;4;Feria de empleo;60134;SI;3
+52;Fannie;Rothfuss;Gerente De Edificio;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;2;0;Neutro;1;M;1;Casado;4;CV en persona;49064;SI;4
+53;Buffy;Wiltse;Asistente De Campamento;Sudáfrica;3;Willi Miyake;2;Regular;4;;Sin evaluar;1;M;0;Soltero;5;Web empleos;38504;SI;5
+54;Giovanne;Szporluk;Asistente De Campamento;Sudáfrica;4;Bianca Miko;2;Regular;4;-0,0625;Negativo;1;M;0;Soltero;3;CV en persona;54023;SI;4
+55;Shepard;Schiferl;Asistente De Campamento;Sudáfrica;3;Willi Miyake;2;Regular;5;0;Neutro;1;M;2;Divorciado;2;LinkedIn;55014;SI;5
+56;Dulci;Lowrance;Asistente De Campamento;Sudáfrica;6;Charles Cecchini;2;Regular;1;-0,05278;Negativo;1;M;0;Soltero;5;Feria de empleo;63767;SI;3
+57;Lorette;Duke;Subgerente De Campamento;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;4;0,164772727;Positivo;0;F;1;Casado;5;CV en persona;41922;SI;2
+58;Antin;Donadio;Subgerente De Campamento;Sudáfrica;3;Willi Miyake;2;Regular;4;0,433333333;Positivo;1;M;1;Casado;3;CV en persona;59408;SI;1
+59;Davida;Bolland;Subgerente De Campamento;Sudáfrica;2;Lancelot Schaefer;5;Excelente;3;0;Neutro;0;F;0;Soltero;5;Página empresa;47069;SI;3
+60;Teresa;Finnegan;Asistente De Campamento - Cocinero De Relevo;Sudáfrica;3;Willi Miyake;3;Aceptable;4;0,09;Positivo;1;M;0;Soltero;3;Página empresa;33069;SI;3
+61;Kenton;Volk;Asistente De Campamento Áreas Comunes;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;4;0,471428571;Positivo;0;F;0;Soltero;4;CV en persona;43763;SI;4
+62;Dorit;Freyman;Asistente De Campamento Áreas Comunes;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;2;0,256818182;Positivo;0;F;1;Casado;5;CV en persona;34310;SI;5
+63;Jenifer;Magagnoli;Oficial De Campo;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;5;0,5;Positivo;0;F;1;Casado;3;CV en persona;47615;SI;5
+64;Neila;Willie;Coordinador De Atención Y Docencia;Sudáfrica;3;Willi Miyake;2;Regular;3;-0,15;Negativo;1;M;0;Soltero;4;Feria de empleo;41775;SI;2
+65;Jolie;Kull;Coordinador De Atención Y Docencia;Sudáfrica;6;Charles Cecchini;4;Muy bueno;2;;Sin evaluar;1;M;1;Casado;4;Página empresa;63278;SI;3
+66;Gracie;Corey;Coordinador Del Centro De Atención;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0,25;Positivo;1;M;1;Casado;4;CV en persona;61085;SI;5
+67;Renato;Nickerson;Coordinador De Atención;Sudáfrica;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;-0,02985;Negativo;0;F;0;Soltero;5;CV en persona;41361;SI;3
+68;Kit;Schilling;Coordinador De Atención;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0,43125;Positivo;1;M;0;Soltero;3;Página empresa;60502;SI;5
+69;Howie;Layton;Coordinador De Atención;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0,007272727;Negativo;0;F;3;Separado;5;LinkedIn;48783;SI;3
+70;Esme;Lachenbruch;Supervisor De Cuidado;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0,325892857;Positivo;1;M;1;Casado;2;CV en persona;61158;SI;1
+71;Valery;Rufo;Supervisor De Cuidado;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;0,6;Positivo;1;M;0;Soltero;5;CV en persona;44878;SI;2
+72;Ursula;Goody;Supervisor De Cuidado;Sudáfrica;7;Abagael Prat;2;Regular;3;0,423939394;Positivo;1;M;0;Soltero;4;CV en persona;53732;SI;1
+73;Susy;Naus;Limpiador;Sudáfrica;3;Willi Miyake;3;Aceptable;5;1;Positivo;0;F;0;Soltero;1;CV en persona;32067;SI;4
+74;Susanetta;Sciutto;Limpiador;Sudáfrica;3;Willi Miyake;3;Aceptable;3;0,416666667;Positivo;0;F;1;Casado;4;Página empresa;42956;SI;3
+75;Erasmus;Mcneely;Oficial De Programa De Comunicaciones Y Periodismo;Sudáfrica;1;Helen Toomer;3;Aceptable;3;0,066666667;Negativo;0;F;0;Soltero;5;Página empresa;34834;SI;3
+76;Barbaraanne;Brandt;Oficial De Programa De Comunicaciones Y Periodismo;Sudáfrica;4;Bianca Miko;2;Regular;3;0,386;Positivo;0;F;1;Casado;4;Web empleos;44917;SI;3
+77;Standford;Thomsen;Oficial De Comunicaciones;Sudáfrica;2;Lancelot Schaefer;5;Excelente;5;0,45;Positivo;1;M;0;Soltero;5;Página empresa;41413;SI;3
+78;Kee;Saintsbury;Oficial De Comunicaciones;Sudáfrica;5;Gusti Renshaw;2;Regular;2;0;Neutro;0;F;0;Soltero;5;CV en persona;39411;SI;4
+79;Faustina;Mohtashami;Oficial De Comunicaciones;Sudáfrica;6;Charles Cecchini;4;Muy bueno;3;-0,03327;Negativo;0;F;0;Soltero;4;CV en persona;60272;SI;5
+80;Maddalena;Ameer;Gerente De Cuentas De La Empresa;Sudáfrica;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;2;0,292424242;Positivo;0;F;1;Casado;3;CV en persona;46018;SI;2
+81;Aveline;Lippincott;Asistente De Conservación;Sudáfrica;4;Bianca Miko;5;Excelente;3;0,6;Positivo;0;F;1;Casado;3;Referido;42364;SI;3
+82;Blancha;Alcantar;Asistente De Conservación;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;0,6;Positivo;1;M;0;Soltero;5;Feria de empleo;58293;SI;1
+83;Ripley;Yelick;Coordinador De Conservación;Sudáfrica;7;Abagael Prat;5;Excelente;4;0;Neutro;1;M;1;Casado;3;Página empresa;55116;SI;5
+84;Suzy;Zelikow;Coordinador De Conservación;Sudáfrica;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;-0,02591;Negativo;0;F;3;Separado;1;CV en persona;49514;SI;4
+85;Andy;Debroff;Coordinador De Conservación;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;5;;Sin evaluar;1;M;0;Soltero;4;CV en persona;45425;SI;2
+86;Letitia;Pantilla;Coordinador De Conservación;Sudáfrica;6;Charles Cecchini;5;Excelente;3;-0,02244;Negativo;0;F;0;Soltero;3;Página empresa;58626;SI;2
+87;Jeb;Congreve;Coordinador De Conservación;Sudáfrica;4;Bianca Miko;4;Muy bueno;3;0;Neutro;0;F;1;Casado;5;CV en persona;52446;SI;1
+88;Thaddeus;Petruccelli;Director De Conservación;Sudáfrica;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;3;0,416666667;Positivo;0;F;1;Casado;5;CV en persona;35895;SI;5
+89;Vachel;Strimling;Director De Conservación;Sudáfrica;6;Charles Cecchini;5;Excelente;3;-0,01809;Negativo;0;F;0;Soltero;4;Web empleos;45298;SI;4
+90;Trenna;Passamani;Director De Conservación;Sudáfrica;2;Lancelot Schaefer;5;Excelente;4;-0,043333333;Negativo;0;F;1;Casado;3;Referido;55523;SI;4
+91;Caryl;Zevin;Director De Conservación;Sudáfrica;4;Bianca Miko;2;Regular;5;0,266477273;Positivo;1;M;1;Casado;5;Página empresa;42659;SI;2
+92;Zoe;bradley;Director De Conservación;Sudáfrica;5;Gusti Renshaw;3;Aceptable;2;0;Neutro;1;M;0;Soltero;3;CV en persona;54652;SI;1
+93;Terza;Zalot;Director De Conservación;Sudáfrica;3;Willi Miyake;5;Excelente;5;0;Neutro;0;F;1;Casado;5;Feria de empleo;51008;SI;1
+94;Anna;Omar;Gerente De Conservación;Sudáfrica;3;Willi Miyake;2;Regular;2;0,370952381;Positivo;1;M;0;Soltero;5;CV en persona;57615;SI;3
+95;Nancie;Yelon;Gerente De Conservación;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0,460625;Positivo;0;F;1;Casado;3;CV en persona;32782;SI;2
+96;Manda;Hoy;Gerente De Conservación;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0,5;Positivo;1;M;1;Casado;5;LinkedIn;47354;SI;3
+97;Dotty;Hassard;Gerente De Conservación;Sudáfrica;1;Helen Toomer;4;Muy bueno;3;0,275;Positivo;1;M;0;Soltero;5;Página empresa;54029;SI;5
+98;Kimmo;Dellal;Gerente De Conservación;Sudáfrica;2;Lancelot Schaefer;4;Muy bueno;2;0,6;Positivo;0;F;1;Casado;3;CV en persona;55486;SI;2
+99;Weber;Leclercq;Gerente De Conservación;Sudáfrica;5;Gusti Renshaw;2;Regular;4;0,6;Positivo;1;M;0;Soltero;3;CV en persona;48032;SI;1
+100;Emily;Maybury-Lewis;Gerente De Conservación;Sudáfrica;4;Bianca Miko;5;Excelente;4;0,6;Positivo;0;F;0;Soltero;4;Página empresa;47738;SI;3
+101;Charlean;Shrier;Gerente De Conservación;Sudáfrica;4;Bianca Miko;2;Regular;2;0;Neutro;1;M;0;Soltero;3;CV en persona;61215;SI;1
+102;Bert;Wittman;Gerente De Conservación;Sudáfrica;3;Willi Miyake;4;Muy bueno;5;;Sin evaluar;0;F;0;Soltero;4;CV en persona;39745;SI;3
+103;Marsh;Belair;Gerente De Conservación;Sudáfrica;7;Abagael Prat;5;Excelente;5;0;Neutro;0;F;1;Casado;3;Web empleos;32211;SI;3
+104;Gael;Freed;Gerente De Conservación;Sudáfrica;6;Charles Cecchini;5;Excelente;3;-0,05608;Negativo;0;F;2;Divorciado;4;Página empresa;56664;SI;2
+105;Warde;Hargraves;Gerente De Conservación;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;0,318181818;Positivo;0;F;4;Viudo;4;LinkedIn;53330;SI;1
+106;Dita;Mauzy;Gerente De Conservación;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;2;0,1;Positivo;1;M;1;Casado;4;Web empleos;34983;SI;3
+107;Allison;Mcnitt;Gerente De Proyectos De Conservación;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0,157449495;Positivo;0;F;0;Soltero;4;CV en persona;55480;SI;3
+108;Riane;Sommariva;Gerente De Proyectos De Conservación;Sudáfrica;7;Abagael Prat;4;Muy bueno;2;0;Neutro;0;F;0;Soltero;5;CV en persona;56573;SI;5
+109;Aditya;Maione;Creador De Contenido;Sudáfrica;4;Bianca Miko;3;Aceptable;2;0,05100704;Negativo;0;F;0;Soltero;4;Referido;43370;SI;2
+110;Alene;Bai;Creador De Contenido;Sudáfrica;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,1178467;Positivo;1;M;1;Casado;5;CV en persona;37585;SI;1
+111;Larina;Farmer;Creador De Contenido;Sudáfrica;6;Charles Cecchini;3;Aceptable;3;-0,01599;Negativo;0;F;0;Soltero;5;CV en persona;35824;SI;5
+112;Christean;Fagan;Creador De Contenido;Sudáfrica;3;Willi Miyake;4;Muy bueno;5;0,75;Positivo;1;M;2;Divorciado;4;CV en persona;40594;SI;2
+113;Caitrin;Gutheil;Creador De Contenido;Sudáfrica;1;Helen Toomer;2;Regular;4;0,216511164;Positivo;1;M;1;Casado;3;Página empresa;55133;SI;3
+114;Zacharia;D'Angelo;Creador De Contenido;Sudáfrica;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;1;-0,02965;Negativo;0;F;3;Separado;4;CV en persona;56799;SI;1
+115;Bessie;Klaassen;Creador De Contenido;Sudáfrica;4;Bianca Miko;3;Aceptable;2;0,247233202;Positivo;0;F;1;Casado;3;Página empresa;38888;SI;2
+116;Vibhu;Gowen;Creador De Contenido;Sudáfrica;1;Helen Toomer;5;Excelente;3;0,330108696;Positivo;1;M;1;Casado;3;Página empresa;38331;SI;1
+117;Gates;Gevelinger;Creador De Contenido;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;4;0,325390143;Positivo;0;F;3;Separado;5;CV en persona;55487;SI;5
+118;Dave;Ketcham;Creador De Contenido;Sudáfrica;4;Bianca Miko;3;Aceptable;2;0,267455679;Positivo;0;F;1;Casado;5;CV en persona;50437;SI;3
+119;Dorthy;Kay;Creador De Contenido;Sudáfrica;1;Helen Toomer;4;Muy bueno;4;0,364285714;Positivo;1;M;2;Divorciado;3;CV en persona;45724;SI;5
+120;Ingram;Rosalsky;Creador De Contenido;Sudáfrica;2;Lancelot Schaefer;4;Muy bueno;4;0,167087738;Positivo;0;F;2;Divorciado;5;Feria de empleo;40252;SI;2
+121;Deeanne;Findley;Creador De Contenido;Sudáfrica;3;Willi Miyake;3;Aceptable;4;0,11780754;Positivo;1;M;1;Casado;5;CV en persona;36733;SI;2
+122;Beverie;Cecchi;Creador De Contenido;Sudáfrica;7;Abagael Prat;3;Aceptable;3;0,1325;Positivo;1;M;0;Soltero;5;CV en persona;49794;SI;2
+123;Christy;Brouillard;Creador De Contenido;Sudáfrica;4;Bianca Miko;5;Excelente;3;0,039915966;Negativo;0;F;1;Casado;4;LinkedIn;49477;SI;4
+124;Tynan;Metting;Líder Creador De Contenido;Sudáfrica;4;Bianca Miko;3;Aceptable;3;0,083492823;Positivo;1;M;0;Soltero;3;LinkedIn;61654;SI;4
+125;Tarrant;Kurihara;Chef;Sudáfrica;6;Charles Cecchini;2;Regular;1;-0,05686;Negativo;0;F;0;Soltero;4;Web empleos;38116;SI;4
+126;Peter;Mehrabi;Chef;Sudáfrica;5;Gusti Renshaw;3;Aceptable;4;0,356818182;Positivo;0;F;1;Casado;4;Referido;49820;SI;1
+127;Mitchael;Oliphant;Chef;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;0,25;Positivo;1;M;0;Soltero;4;CV en persona;43527;SI;2
+128;Cherida;Maclure;Chef;Sudáfrica;4;Bianca Miko;5;Excelente;4;0;Neutro;0;F;0;Soltero;3;Página empresa;48862;SI;5
+129;Leontine;Veronese;Chef;Sudáfrica;2;Lancelot Schaefer;2;Regular;5;1;Positivo;1;M;1;Casado;5;Página empresa;45870;SI;5
+130;Lazlo;Marquis;Chef;Sudáfrica;3;Willi Miyake;3;Aceptable;4;0;Neutro;0;F;1;Casado;5;Página empresa;55911;SI;3
+131;Essy;Leger;Chef;Sudáfrica;4;Bianca Miko;4;Muy bueno;3;0,5;Positivo;0;F;0;Soltero;5;Web empleos;33597;SI;4
+132;Shaughn;Yokoe;Chef;Sudáfrica;2;Lancelot Schaefer;2;Regular;4;0,4;Positivo;0;F;1;Casado;4;Referido;46949;SI;1
+133;Crystal;Cabral;Director De País;Sudáfrica;6;Charles Cecchini;3;Aceptable;3;-0,02507;Negativo;0;F;1;Casado;3;CV en persona;60403;SI;4
+134;Olga;Quinlan;Director De País;Sudáfrica;1;Helen Toomer;5;Excelente;4;0,325;Positivo;0;F;0;Soltero;4;LinkedIn;52990;SI;3
+135;Dante;Dionne;Director De País;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;3;0,137268519;Positivo;0;F;0;Soltero;5;CV en persona;42363;SI;2
+136;Marissa;Bartel;Director De País;Sudáfrica;3;Willi Miyake;2;Regular;5;0,304166667;Positivo;0;F;3;Separado;3;CV en persona;52810;SI;4
+137;Charyl;Titilah;Director De País;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0;Neutro;0;F;2;Divorciado;3;CV en persona;53528;SI;1
+138;Ebony;Sam;Director De País;Sudáfrica;4;Bianca Miko;5;Excelente;5;0,09375;Positivo;1;M;1;Casado;2;Feria de empleo;58148;SI;4
+139;Rudiger;Wallen;Director De País;Sudáfrica;7;Abagael Prat;4;Muy bueno;4;-0,03125;Negativo;0;F;0;Soltero;3;LinkedIn;55464;SI;3
+140;Birgitta;Madison;Director De País;Sudáfrica;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,391111111;Positivo;0;F;0;Soltero;3;CV en persona;54288;SI;5
+141;Jane;Castro;Director De País;Sudáfrica;7;Abagael Prat;2;Regular;4;0;Neutro;0;F;2;Divorciado;5;CV en persona;40403;SI;3
+142;Raina;Qin;Director De País;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;4;0,1125;Positivo;0;F;2;Divorciado;4;CV en persona;36075;SI;2
+143;Ron;Pease;Director De País;Sudáfrica;2;Lancelot Schaefer;2;Regular;5;0,196078431;Positivo;0;F;3;Separado;5;Feria de empleo;35169;SI;3
+144;Hermy;Middle;Director De País;Sudáfrica;4;Bianca Miko;4;Muy bueno;2;0,7;Positivo;1;M;1;Casado;4;Referido;38806;SI;3
+145;Kara-Lynn;Verdirosi;Director De País;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;4;;Sin evaluar;0;F;1;Casado;3;Página empresa;45970;SI;5
+146;Ermina;Rakoff;Director De País;Sudáfrica;6;Charles Cecchini;3;Aceptable;2;-0,02066;Negativo;0;F;0;Soltero;3;LinkedIn;43239;SI;3
+147;Ninnetta;Radaelli;Director De País;Sudáfrica;4;Bianca Miko;4;Muy bueno;4;0,123054408;Positivo;0;F;1;Casado;4;CV en persona;41608;SI;5
+148;Garth;Erez;Director De País;Sudáfrica;1;Helen Toomer;2;Regular;3;-0,019270833;Negativo;0;F;0;Soltero;5;CV en persona;48495;SI;5
+149;Myron;Cyr;Director De País;Sudáfrica;5;Gusti Renshaw;2;Regular;3;-0,042708333;Negativo;1;M;0;Soltero;4;CV en persona;39081;SI;1
+150;Florie;Singleton;Director De País;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0;Neutro;1;M;0;Soltero;5;Página empresa;53856;SI;4
+151;Westley;Soutter;Director De País;Sudáfrica;6;Charles Cecchini;5;Excelente;3;-0,01;Negativo;0;F;1;Casado;3;Página empresa;51841;SI;4
+152;Alidia;Housley;Director De País;Sudáfrica;7;Abagael Prat;3;Aceptable;4;;Sin evaluar;0;F;1;Casado;5;LinkedIn;53842;SI;5
+153;Camel;Byerly;Director De País;Sudáfrica;4;Bianca Miko;3;Aceptable;4;0;Neutro;0;F;1;Casado;4;CV en persona;56704;SI;3
+154;Elbertina;Decker;Director De País;Sudáfrica;5;Gusti Renshaw;5;Excelente;2;0,398295455;Positivo;1;M;0;Soltero;3;LinkedIn;56084;SI;5
+155;Keenan;Yates;Director De País;Sudáfrica;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;5;0,533766234;Positivo;1;M;1;Casado;3;CV en persona;42425;SI;4
+156;Estelle;Palato;Director De País;Sudáfrica;6;Charles Cecchini;5;Excelente;3;0;Neutro;1;M;0;Soltero;5;LinkedIn;39393;SI;4
+157;Levy;Bressan;Director De País;Sudáfrica;1;Helen Toomer;2;Regular;4;-0,022916667;Negativo;1;M;1;Casado;5;CV en persona;60884;SI;2
+158;Consolata;Delafaille;Director De País;Sudáfrica;3;Willi Miyake;4;Muy bueno;4;;Sin evaluar;1;M;1;Casado;4;LinkedIn;59985;SI;2
+159;Alexina;Valadian;Director De País;Sudáfrica;1;Helen Toomer;3;Aceptable;5;0;Neutro;0;F;2;Divorciado;3;LinkedIn;44197;SI;5
+160;Erik;Moreton;Director De País;Sudáfrica;6;Charles Cecchini;3;Aceptable;2;-0,06182;Negativo;1;M;1;Casado;5;LinkedIn;42127;SI;1
+161;Dorothy;Vela-Estrada;Director De País;Sudáfrica;1;Helen Toomer;4;Muy bueno;2;0;Neutro;1;M;2;Divorciado;4;CV en persona;51151;SI;4
+162;Maggie;Cosden;Director De País;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0,716666667;Positivo;1;M;1;Casado;3;CV en persona;60112;SI;1
+163;Garvy;Rettig;Director De País;Sudáfrica;4;Bianca Miko;2;Regular;3;0,766666667;Positivo;0;F;0;Soltero;5;Web empleos;46454;SI;2
+164;Bette-Ann;D'Epifanio;Director De País;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;0;Neutro;0;F;0;Soltero;3;Página empresa;40900;SI;1
+165;Jobey;La Porte;Director De País;Sudáfrica;7;Abagael Prat;2;Regular;5;0,5;Positivo;1;M;1;Casado;4;Página empresa;46438;SI;3
+166;Herold;Olmsted;Director De País;Sudáfrica;2;Lancelot Schaefer;2;Regular;5;;Sin evaluar;1;M;1;Casado;3;CV en persona;51237;SI;5
+167;Huey;Brose;Director De País;Sudáfrica;2;Lancelot Schaefer;2;Regular;4;-0,141666667;Negativo;1;M;3;Separado;3;Referido;54650;SI;3
+168;Ruth;Garvey;Director De País;Sudáfrica;7;Abagael Prat;4;Muy bueno;3;0,4;Positivo;0;F;1;Casado;3;Feria de empleo;39168;SI;2
+169;Tamma;Wiles;Director De País;Sudáfrica;3;Willi Miyake;3;Aceptable;3;-0,25;Negativo;0;F;1;Casado;4;CV en persona;42260;SI;3
+170;Mandy;Watkins;Director De País;Sudáfrica;7;Abagael Prat;4;Muy bueno;4;0,124880383;Positivo;1;M;1;Casado;3;Página empresa;52374;SI;2
+171;Merridie;Kochanek;Director De País;Sudáfrica;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;4;0,165759981;Positivo;0;F;0;Soltero;4;CV en persona;31060;SI;5
+172;Taite;Vatter;Director De País;Sudáfrica;7;Abagael Prat;3;Aceptable;2;0,233566434;Positivo;0;F;4;Viudo;4;CV en persona;32814;SI;1
+173;Darsie;Soohoo;Director De País;Sudáfrica;3;Willi Miyake;2;Regular;4;0,368181818;Positivo;0;F;0;Soltero;4;Página empresa;33338;SI;5
+174;Conan;Probert;Director De País;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0,381418581;Positivo;0;F;1;Casado;3;Feria de empleo;54898;SI;1
+175;Debby;Hecataeus;Director De País;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;;Sin evaluar;0;F;0;Soltero;4;CV en persona;38298;SI;4
+176;Magnus;Kagan;Director De País;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;0,297916667;Positivo;1;M;4;Viudo;4;CV en persona;36436;SI;1
+177;Earl;Karam;Director De País;Sudáfrica;5;Gusti Renshaw;2;Regular;3;-0,029761905;Negativo;0;F;0;Soltero;4;CV en persona;34085;SI;4
+178;Xenos;O'Neill;Director De País;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0;Neutro;0;F;1;Casado;3;CV en persona;49303;SI;5
+179;Batsheva;Kuliopulos;Director De País;Sudáfrica;7;Abagael Prat;1;Programa de Mejora del Rendimiento;4;0,033333333;Negativo;0;F;1;Casado;4;CV en persona;42259;SI;5
+180;Janelle;Donev;Director De País;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0,319312945;Positivo;0;F;1;Casado;3;CV en persona;40956;SI;2
+181;Mikako;Mann;Director De País;Sudáfrica;4;Bianca Miko;3;Aceptable;4;;Sin evaluar;0;F;0;Soltero;5;LinkedIn;32673;SI;1
+182;Lilith;Jervey;Director De País;Sudáfrica;1;Helen Toomer;5;Excelente;4;;Sin evaluar;0;F;1;Casado;4;Referido;46065;SI;2
+183;Shantee;Haykov;Director De País;Sudáfrica;2;Lancelot Schaefer;2;Regular;3;0,2;Positivo;0;F;0;Soltero;5;CV en persona;46494;SI;4
+184;Catherin;Charles;Director De País;Sudáfrica;1;Helen Toomer;5;Excelente;3;0;Neutro;0;F;1;Casado;3;LinkedIn;38681;SI;4
+185;Chalmers;Yntema;Director De País;Sudáfrica;7;Abagael Prat;3;Aceptable;4;;Sin evaluar;1;M;1;Casado;4;Página empresa;54029;SI;1
+186;Gearard;Fischbach;Director De País;Sudáfrica;7;Abagael Prat;2;Regular;2;0,5;Positivo;0;F;0;Soltero;4;CV en persona;52684;SI;1
+187;Malynda;Runyan;Director De País;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0,1875;Positivo;0;F;0;Soltero;4;CV en persona;34936;SI;5
+188;Aridatha;Barns;Director De País;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;4;0,35;Positivo;1;M;0;Soltero;3;CV en persona;50370;SI;4
+189;Carolina;Puzyn;Director De País;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0,397916667;Positivo;1;M;0;Soltero;2;CV en persona;35001;SI;3
+190;Tomkin;Reinhart;Adjunto De Diseño;Sudáfrica;7;Abagael Prat;2;Regular;2;0,347727273;Positivo;1;M;1;Casado;3;Referido;57382;SI;1
+191;Marsha;Ho;Gerente De Proyecto Adjunto;Sudáfrica;5;Gusti Renshaw;5;Excelente;3;0,048730159;Negativo;1;M;1;Casado;3;Referido;47295;SI;5
+192;Donal;Vere-Jones;Oficina Adjunta De Reclutamiento;Sudáfrica;4;Bianca Miko;4;Muy bueno;2;0,343333333;Positivo;0;F;0;Soltero;3;CV en persona;33034;SI;3
+193;Carlotta;Burger;Gerente Regional Adjunto;Sudáfrica;4;Bianca Miko;3;Aceptable;5;0,5;Positivo;1;M;0;Soltero;4;Página empresa;49628;SI;2
+194;Stefania;Dobens;Gerente Regional Adjunto;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0;Neutro;0;F;1;Casado;3;CV en persona;54918;SI;1
+195;Beverie;Bang;Experto En Destinos;Sudáfrica;4;Bianca Miko;2;Regular;4;0,2625;Positivo;0;F;2;Divorciado;4;CV en persona;39294;SI;5
+196;Inigo;Joujoute;Experto En Destinos;Sudáfrica;4;Bianca Miko;1;Programa de Mejora del Rendimiento;5;0,169387755;Positivo;1;M;3;Separado;5;CV en persona;36377;SI;4
+197;Tobiah;Buday;Experto En Destinos;Sudáfrica;2;Lancelot Schaefer;2;Regular;5;1;Positivo;1;M;0;Soltero;4;Web empleos;35126;SI;2
+198;Flemming;Hernandez;Experto En Destinos;Sudáfrica;5;Gusti Renshaw;3;Aceptable;5;;Sin evaluar;1;M;0;Soltero;3;Página empresa;46855;SI;5
+199;Hollyanne;Aisner;Oficial De Desarrollo;Sudáfrica;7;Abagael Prat;3;Aceptable;5;0;Neutro;1;M;0;Soltero;3;Página empresa;57992;SI;5
+200;Consolata;Rapsomanikis;Contenidos Digitales Y;Sudáfrica;5;Gusti Renshaw;3;Aceptable;4;0,144817743;Positivo;1;M;1;Casado;3;Feria de empleo;36740;SI;2
+201;Lorenzo;Pool;Contenidos Digitales Y;Sudáfrica;5;Gusti Renshaw;3;Aceptable;2;0,210714286;Positivo;1;M;1;Casado;5;CV en persona;59941;SI;4
+202;Julie;Letterman;Gestor De Contenidos Digitales;Sudáfrica;1;Helen Toomer;5;Excelente;4;0,202462121;Positivo;0;F;3;Separado;3;Feria de empleo;36756;SI;3
+203;Sada;Salgado;Gestor De Contenidos Digitales;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;;Sin evaluar;0;F;0;Soltero;5;CV en persona;56684;SI;4
+204;Gretta;Doering;Gerente De Mercadeo Digital;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;4;0,242272727;Positivo;0;F;0;Soltero;5;CV en persona;53231;SI;4
+205;Anet;Yevich;Gerente De Mercadeo Digital;Sudáfrica;5;Gusti Renshaw;3;Aceptable;3;0,240757576;Positivo;0;F;0;Soltero;5;CV en persona;33476;SI;3
+206;Judd;Jacobson-Carroll;Instructor De Buceo;Sudáfrica;4;Bianca Miko;4;Muy bueno;4;0,206791831;Positivo;0;F;0;Soltero;2;CV en persona;50346;SI;4
+207;Zea;Winsten;Instructor De Buceo;Sudáfrica;1;Helen Toomer;2;Regular;4;-0,014285714;Negativo;0;F;1;Casado;3;CV en persona;51231;SI;3
+208;Beth;Cusato;Editor;Sudáfrica;3;Willi Miyake;4;Muy bueno;5;0,325;Positivo;0;F;0;Soltero;3;CV en persona;32300;SI;4
+209;Maiga;John;Administrador De Archivos Electrónicos;Sudáfrica;7;Abagael Prat;3;Aceptable;5;0,4;Positivo;1;M;1;Casado;3;LinkedIn;57197;SI;3
+210;Erminie;Bush;Administrador De Archivos Electrónicos;Sudáfrica;6;Charles Cecchini;4;Muy bueno;2;-0,05275;Negativo;1;M;0;Soltero;3;CV en persona;46649;SI;3
+211;Kat;Tofallis;Ejecutivo De Marketing Por Correo Electrónico;Sudáfrica;1;Helen Toomer;4;Muy bueno;4;0,221590909;Positivo;1;M;0;Soltero;5;CV en persona;38958;SI;1
+212;Ivett;Boniface;Desarrollador De Formación Electrónica;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;-0,04077381;Negativo;0;F;1;Casado;4;CV en persona;40041;SI;2
+213;Ede;Chien;Coordinadora De Eventos;Sudáfrica;4;Bianca Miko;5;Excelente;2;0,206709957;Positivo;1;M;0;Soltero;5;Referido;60550;SI;5
+214;Shauna;Agro';Asistente Ejecutiva;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;3;0,125;Positivo;1;M;1;Casado;4;CV en persona;46265;SI;1
+215;Agamemnon;Fata;Asistente Ejecutiva;Sudáfrica;7;Abagael Prat;4;Muy bueno;2;0,059217172;Negativo;1;M;0;Soltero;5;Feria de empleo;43754;SI;5
+216;Hy;Skitois;Asistente Ejecutiva;Sudáfrica;3;Willi Miyake;4;Muy bueno;2;0;Neutro;0;F;1;Casado;5;LinkedIn;45266;SI;2
+217;Nealson;Charles;Asistente De Campo;Sudáfrica;5;Gusti Renshaw;3;Aceptable;3;0,5;Positivo;0;F;0;Soltero;4;Referido;31662;SI;2
+218;Babara;Rhoades;Asistente De Campo;Sudáfrica;4;Bianca Miko;4;Muy bueno;4;-0,15;Negativo;0;F;1;Casado;5;CV en persona;44930;SI;4
+219;Marnia;Sykes;Oficial De Finanzas;Sudáfrica;7;Abagael Prat;2;Regular;5;;Sin evaluar;0;F;1;Casado;5;CV en persona;32782;SI;4
+220;Staffard;Hong;Oficial De Finanzas;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;;Sin evaluar;0;F;1;Casado;3;CV en persona;37578;SI;3
+221;Andrea;Abdelnour;Oficial De Finanzas;Sudáfrica;5;Gusti Renshaw;4;Muy bueno;5;-0,056818182;Negativo;0;F;1;Casado;5;Feria de empleo;43713;SI;4
+222;Dionne;Pesce;Oficial De Finanzas;Sudáfrica;3;Willi Miyake;3;Aceptable;2;0,6;Positivo;1;M;1;Casado;3;Página empresa;37894;SI;1
+223;Cathie;Ghilardi;Oficial De Finanzas;Sudáfrica;1;Helen Toomer;5;Excelente;4;;Sin evaluar;1;M;0;Soltero;3;LinkedIn;54734;SI;3
+224;Heather;Antles;Oficial De Finanzas;Sudáfrica;7;Abagael Prat;5;Excelente;4;0;Neutro;0;F;1;Casado;5;LinkedIn;45309;SI;1
+225;Reuben;Ritchie-Copass;Oficial De Finanzas;Sudáfrica;4;Bianca Miko;4;Muy bueno;5;0;Neutro;0;F;2;Divorciado;4;CV en persona;30539;SI;2
+226;Bartholemy;Delozier;Consultor De Ventas De Vuelos;Sudáfrica;1;Helen Toomer;4;Muy bueno;5;0,130909091;Positivo;1;M;0;Soltero;3;Referido;48646;SI;2
+227;Tim;Hembrow;Consultor De Ventas De Vuelos;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0,592857143;Positivo;0;F;2;Divorciado;5;CV en persona;41247;SI;3
+228;Jean-Luc;Langman;Asistente General;Sudáfrica;5;Gusti Renshaw;2;Regular;3;0,25;Positivo;1;M;1;Casado;4;Feria de empleo;56823;SI;1
+229;Sisile;Berry;Asistente General;Sudáfrica;7;Abagael Prat;2;Regular;4;0,20125;Positivo;0;F;1;Casado;4;LinkedIn;35646;SI;3
+230;Hendrika;Vizzolini;Asistente General;Sudáfrica;5;Gusti Renshaw;3;Aceptable;5;0,29375;Positivo;1;M;2;Divorciado;5;Referido;44802;SI;5
+231;Noel;Nychka;Coordinador De La Comunidad Global;Sudáfrica;1;Helen Toomer;5;Excelente;4;0,473333333;Positivo;1;M;1;Casado;3;LinkedIn;62218;SI;4
+232;Northrop;Fonseca;Ejecutivo De Reclutamiento Global;Sudáfrica;4;Bianca Miko;2;Regular;2;0,236401515;Positivo;1;M;2;Divorciado;4;CV en persona;51310;SI;2
+233;Yacov;Maione;Analista De Investigación Global;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;0,162337662;Positivo;0;F;1;Casado;5;CV en persona;31628;SI;5
+234;Rahel;Radochia;Analista De Investigación Global;Sudáfrica;5;Gusti Renshaw;3;Aceptable;3;0,241287879;Positivo;0;F;2;Divorciado;4;Página empresa;44607;SI;5
+235;Saudra;Haar;Analista De Investigación Global;Sudáfrica;2;Lancelot Schaefer;2;Regular;2;0,357291667;Positivo;1;M;1;Casado;5;CV en persona;39889;SI;2
+236;Lorry;Davis;Diseñador Grafico;Sudáfrica;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;5;0,13874053;Positivo;1;M;1;Casado;3;CV en persona;38101;SI;1
+237;Florry;Adrian-Haberly;Asesor De Viajes En Grupo;Sudáfrica;7;Abagael Prat;4;Muy bueno;5;0,24030303;Positivo;0;F;1;Casado;3;Referido;36533;SI;4
+238;Suzanne;Foster;Asesor De Viajes En Grupo;Sudáfrica;1;Helen Toomer;4;Muy bueno;3;0,3325;Positivo;1;M;4;Viudo;5;LinkedIn;46124;SI;2
+239;Jerald;Jen;Asesor De Viajes En Grupo;Sudáfrica;7;Abagael Prat;5;Excelente;5;0,5;Positivo;0;F;1;Casado;5;Web empleos;44644;SI;4
+240;Mead;Koehn;Asesor De Viajes En Grupo;Sudáfrica;6;Charles Cecchini;2;Regular;3;0;Neutro;0;F;0;Soltero;3;CV en persona;38822;SI;4
+241;Gunvor;Grimmett;Asesor De Viajes En Grupo;Sudáfrica;3;Willi Miyake;1;Programa de Mejora del Rendimiento;4;0,292929293;Positivo;0;F;0;Soltero;3;CV en persona;39867;SI;1
+242;Trixy;Daumer;Asesor De Viajes En Grupo;Sudáfrica;2;Lancelot Schaefer;3;Aceptable;4;0;Neutro;0;F;3;Separado;4;Página empresa;52994;SI;5
+243;Oona;Galmacci;Supervisora De Grupos;Sudáfrica;6;Charles Cecchini;2;Regular;4;0;Neutro;1;M;0;Soltero;5;CV en persona;64966;SI;5
+244;Gregg;Healy;Supervisora De Grupos;Sudáfrica;3;Willi Miyake;5;Excelente;4;0,2625;Positivo;1;M;0;Soltero;5;LinkedIn;61866;SI;2
+245;Aubry;Luebke;Asesor De Voluntariado De Grupos;Sudáfrica;1;Helen Toomer;5;Excelente;3;0,189400585;Positivo;1;M;2;Divorciado;4;Página empresa;58548;SI;2
+246;Barrie;Rampichini;Cocinero Principal;Sudáfrica;2;Lancelot Schaefer;4;Muy bueno;5;0,228153989;Positivo;0;F;1;Casado;3;Referido;49742;SI;3
+247;Constantine;Raboud;Cocinero Principal;Sudáfrica;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;0,3125;Positivo;0;F;0;Soltero;4;CV en persona;34924;SI;2
+248;Kimmi;Isome;Jefe De Administración;Sudáfrica;6;Charles Cecchini;3;Aceptable;2;0;Neutro;1;M;0;Soltero;5;LinkedIn;44965;SI;1
+249;Emyle;Shostak;Jefe De Diseño;Sudáfrica;6;Charles Cecchini;5;Excelente;2;-0,04375;Negativo;1;M;1;Casado;3;Web empleos;58301;SI;1
+250;Fay;Mazus;Jefe De Diseño;Sudáfrica;5;Gusti Renshaw;3;Aceptable;2;;Sin evaluar;1;M;2;Divorciado;3;CV en persona;61203;SI;2
+251;Towny;Mack;Jefe De Ti;Argentina;7;Abagael Prat;5;Excelente;5;0,257575758;Positivo;0;F;1;Casado;3;Página empresa;115250;SI;1
+252;Erek;Pedreira;Jefe De Voluntariado;Argentina;5;Gusti Renshaw;3;Aceptable;3;0;Neutro;0;F;0;Soltero;5;Referido;100496;SI;4
+253;Astrid;Zaccarin;Coordinador De La Oficina Central;Argentina;5;Gusti Renshaw;5;Excelente;5;0;Neutro;0;F;1;Casado;3;Página empresa;139968;SI;2
+254;Jacinda;St Martin;Coordinador De La Oficina Central;Argentina;1;Helen Toomer;3;Aceptable;3;0,136303828;Positivo;0;F;1;Casado;4;Página empresa;158574;SI;4
+255;Wolf;Mahood;Coordinador De La Oficina Central;Argentina;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;4;0;Neutro;1;M;1;Casado;3;CV en persona;197338;SI;5
+256;Ender;Harkins;Coordinador De La Oficina Central;Argentina;6;Charles Cecchini;5;Excelente;3;0;Neutro;0;F;0;Soltero;3;LinkedIn;58023;SI;4
+257;Laurie;Kaminski;Coordinador De La Oficina Central;Argentina;2;Lancelot Schaefer;4;Muy bueno;5;0,40661157;Positivo;0;F;0;Soltero;4;LinkedIn;68127;SI;1
+258;Danell;Hattersley;Ama De Casa;Argentina;1;Helen Toomer;3;Aceptable;3;0;Neutro;1;M;0;Soltero;3;CV en persona;111865;SI;5
+259;Grethel;Reyes;Ama De Casa;Argentina;2;Lancelot Schaefer;4;Muy bueno;3;0,228125;Positivo;1;M;2;Divorciado;4;LinkedIn;147116;SI;2
+260;Marybeth;Runyon;Ama De Casa;Argentina;1;Helen Toomer;1;Programa de Mejora del Rendimiento;4;-0,438095238;Negativo;0;F;1;Casado;4;CV en persona;64408;SI;4
+261;Kati;Wroblewski;Ama De Llaves;Argentina;3;Willi Miyake;4;Muy bueno;5;0,9;Positivo;0;F;0;Soltero;3;CV en persona;88086;SI;1
+262;Ferdy;Grace;Ama De Llaves;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;3;0,333333333;Positivo;0;F;1;Casado;3;CV en persona;93442;SI;3
+263;Marc;Zaccarin;Ama De Llaves;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;4;0,496666667;Positivo;1;M;1;Casado;4;CV en persona;174495;SI;3
+264;Cecile;Griego;Ama De Llaves;Argentina;1;Helen Toomer;4;Muy bueno;5;0,08;Sin evaluar;0;F;1;Casado;2;CV en persona;68552;SI;3
+265;Poppy;powell;Asistente De Recursos Humanos;Argentina;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;3;0,085416667;Positivo;0;F;1;Casado;5;CV en persona;106049;SI;1
+266;Neall;Shang;Asistente De Recursos Humanos;Argentina;3;Willi Miyake;2;Regular;3;0,232231405;Positivo;0;F;2;Divorciado;4;Página empresa;64235;SI;4
+267;Ethelbert;Taqqu;Asistente De Recursos Humanos;Argentina;2;Lancelot Schaefer;3;Aceptable;3;-0,133585859;Negativo;0;F;2;Divorciado;4;Página empresa;109284;SI;5
+268;Lian;Yuen;Asistente De Recursos Humanos;Argentina;7;Abagael Prat;3;Aceptable;4;0,012878788;Negativo;1;M;1;Casado;2;CV en persona;86040;SI;3
+269;Charo;Ganong;Asistente De Recursos Humanos;Argentina;6;Charles Cecchini;5;Excelente;3;0;Neutro;1;M;0;Soltero;5;Feria de empleo;205178;SI;2
+270;Claudette;McMillan;Asistente De Recursos Humanos;Argentina;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;4;0,31884058;Positivo;1;M;1;Casado;3;CV en persona;82431;SI;1
+271;Leo;Fromm;Asistente De Recursos Humanos;Argentina;4;Bianca Miko;4;Muy bueno;4;0,154292929;Positivo;0;F;1;Casado;4;LinkedIn;150750;SI;1
+272;Humphrey;O'Neill;Asistente De Recursos Humanos;Argentina;7;Abagael Prat;2;Regular;4;0,226136364;Positivo;0;F;1;Casado;4;CV en persona;67180;SI;1
+273;Karla;Bailey;Coordinadora De Derechos Humanos;Argentina;7;Abagael Prat;3;Aceptable;2;0;Neutro;1;M;1;Casado;5;CV en persona;180993;SI;5
+274;Genia;Mattis;Coordinadora De Derechos Humanos;Argentina;6;Charles Cecchini;5;Excelente;3;0,075;Negativo;0;F;0;Soltero;5;Página empresa;108365;SI;2
+275;Alfredo;Granovsky;Interlocutor En El País;Argentina;3;Willi Miyake;2;Regular;5;0,39375;Positivo;1;M;0;Soltero;5;LinkedIn;108396;SI;2
+276;Nathalia;Patrice;Interlocutor En El País;Argentina;4;Bianca Miko;1;Programa de Mejora del Rendimiento;2;1;Positivo;1;M;1;Casado;3;CV en persona;114601;SI;1
+277;Riannon;Nuwayser;Interno;Argentina;2;Lancelot Schaefer;5;Excelente;5;;Sin evaluar;0;F;1;Casado;5;Web empleos;146370;SI;4
+278;Seka;Koehler;Interno;Argentina;3;Willi Miyake;2;Regular;5;0;Neutro;0;F;1;Casado;3;Web empleos;85136;SI;1
+279;Clerissa;Losick;Interno;Argentina;6;Charles Cecchini;2;Regular;2;0;Neutro;0;F;0;Soltero;3;CV en persona;150907;SI;4
+280;Barron;Ayis;Gerente De Ti;Argentina;3;Willi Miyake;4;Muy bueno;5;0,387272727;Positivo;0;F;0;Soltero;4;CV en persona;124576;SI;2
+281;Ofilia;Penrose;Gerente De Ti;Argentina;7;Abagael Prat;2;Regular;3;0,425;Positivo;1;M;4;Viudo;4;CV en persona;128084;SI;5
+282;Hilbert;Gandhi;Creador De Contenido Júnior;Argentina;5;Gusti Renshaw;2;Regular;4;0,239591568;Positivo;0;F;2;Divorciado;5;CV en persona;81521;SI;5
+283;Christal;Tiffney;Creador De Contenido Júnior;Argentina;4;Bianca Miko;2;Regular;2;0,388811585;Positivo;1;M;3;Separado;3;CV en persona;84396;SI;5
+284;Rayna;Zahner;Creador De Contenido Júnior;Argentina;7;Abagael Prat;4;Muy bueno;5;0,375892857;Positivo;0;F;0;Soltero;5;CV en persona;131975;SI;3
+285;Chet;Whittlesey-First;Derecho Y Humano;Argentina;6;Charles Cecchini;5;Excelente;2;0;Neutro;1;M;1;Casado;3;Página empresa;118199;SI;3
+286;Joellyn;Ridgell;Derecho Y Humano;Argentina;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;0;Neutro;1;M;0;Soltero;3;CV en persona;227487;SI;5
+287;Appolonia;Litterer;Científico Principal;Argentina;3;Willi Miyake;1;Programa de Mejora del Rendimiento;3;0;Negativo;0;F;0;Soltero;3;CV en persona;70522;SI;1
+288;Virgina;Ramella;Científico Principal;Argentina;1;Helen Toomer;1;Programa de Mejora del Rendimiento;3;0,254910714;Negativo;1;M;1;Casado;4;CV en persona;159129;SI;2
+289;Teane;Regoli;Coordinador De Servicios Legales;Argentina;7;Abagael Prat;3;Aceptable;4;0,101851852;Negativo;0;F;1;Casado;3;Web empleos;87373;SI;5
+290;Kelci;Furtado;Coordinador De Servicios Legales;Argentina;6;Charles Cecchini;3;Aceptable;3;-0,04488;Negativo;1;M;2;Divorciado;5;Página empresa;167259;SI;4
+291;Brenda;Mumm;Coordinador De Servicios Legales;Argentina;7;Abagael Prat;2;Regular;3;0,212962963;Negativo;1;M;2;Divorciado;3;CV en persona;115995;SI;2
+292;Ekaterina;Beach;Administrador De La Logia;Argentina;4;Bianca Miko;3;Aceptable;4;0,012685185;Negativo;1;M;0;Soltero;4;CV en persona;69450;SI;4
+293;Callie;Gribanov;Administrador De La Logia;Argentina;7;Abagael Prat;2;Regular;4;0,433333333;Negativo;1;M;1;Casado;3;CV en persona;120188;SI;3
+294;Clare;Masselli;Administrador De La Logia;Argentina;4;Bianca Miko;4;Muy bueno;4;0,341666667;Positivo;0;F;1;Casado;5;LinkedIn;141434;SI;3
+295;Andrea;Just;Biólogo Marino;Argentina;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;3;0,375;Positivo;0;F;0;Soltero;3;CV en persona;56352;SI;4
+296;Darline;Amis;Coordinador Médico;Argentina;4;Bianca Miko;4;Muy bueno;5;-0,52;Negativo;1;M;0;Soltero;5;CV en persona;207511;SI;3
+297;Cyndi;Budrene;Coordinador Médico;Argentina;5;Gusti Renshaw;3;Aceptable;5;0;Neutro;0;F;1;Casado;3;CV en persona;83538;SI;1
+298;Blithe;Principato;Coordinador Médico;Argentina;5;Gusti Renshaw;2;Regular;3;0,4;Positivo;0;F;0;Soltero;3;CV en persona;88705;SI;2
+299;Lane;Kroncke;Coordinador Médico;Argentina;5;Gusti Renshaw;4;Muy bueno;2;0,55;Positivo;1;M;0;Soltero;4;Página empresa;112597;SI;5
+300;Reiko;Bonwitt;Coordinador Médico;Argentina;3;Willi Miyake;4;Muy bueno;5;;Sin evaluar;0;F;4;Viudo;4;CV en persona;158923;SI;4
+301;Kristan;Ludwig;Coordinador Médico;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0;Neutro;1;M;0;Soltero;5;CV en persona;168402;SI;3
+302;Nerte;Manriquez;Supervisor Medico;Argentina;1;Helen Toomer;3;Aceptable;5;0,214285714;Positivo;1;M;1;Casado;3;CV en persona;78389;SI;4
+303;Ulrike;Huber;Supervisor Medico;Argentina;5;Gusti Renshaw;4;Muy bueno;5;0,177517189;Positivo;0;F;2;Divorciado;5;Página empresa;142475;SI;5
+304;Rozelle;Rielly;Gerente De Micro Finanzas;Argentina;4;Bianca Miko;5;Excelente;3;0;Neutro;0;F;0;Soltero;4;Referido;105048;SI;5
+305;Merrilee;Rimm;Gerente De Micro Finanzas;Argentina;4;Bianca Miko;4;Muy bueno;5;0;Neutro;1;M;0;Soltero;3;Feria de empleo;145914;SI;1
+306;Karlyn;Gronback;Diseñador De Gráficos En Movimiento;Argentina;6;Charles Cecchini;4;Muy bueno;2;0;Neutro;0;F;0;Soltero;4;CV en persona;131269;SI;2
+307;Tobi;Mccutchon;Viajes Adjuntos De Na;Argentina;4;Bianca Miko;4;Muy bueno;5;0,105326689;Positivo;1;M;0;Soltero;4;Feria de empleo;70096;SI;2
+308;Karlen;Slone;Asistente De Viajes Na;Argentina;1;Helen Toomer;3;Aceptable;4;0,251412602;Positivo;0;F;0;Soltero;2;CV en persona;114724;SI;4
+309;Sigfrid;Gallucio;Asistente De Viajes Na;Argentina;4;Bianca Miko;3;Aceptable;5;0,233666667;Positivo;0;F;0;Soltero;5;CV en persona;114785;SI;3
+310;Oren;Sever;Supervisor De Proyecto Nómada;Argentina;1;Helen Toomer;3;Aceptable;4;0,8;Positivo;0;F;0;Soltero;3;CV en persona;85613;SI;2
+311;Gracie;Siner;Supervisor De Proyecto Nómada;Argentina;2;Lancelot Schaefer;2;Regular;3;0,095512821;Positivo;0;F;4;Viudo;5;CV en persona;136455;SI;2
+312;Adam;Veronesi;Supervisor De Proyecto Nómada;Argentina;1;Helen Toomer;3;Aceptable;5;0,4;Positivo;1;M;0;Soltero;5;CV en persona;67411;SI;1
+313;Doll;Ghildyal;Supervisor De Proyecto Nómada;Argentina;7;Abagael Prat;4;Muy bueno;5;0,233368946;Positivo;1;M;1;Casado;3;CV en persona;89166;SI;3
+314;Tatiana;Weigel;Oficina Y Personal;Argentina;2;Lancelot Schaefer;2;Regular;3;0,152205882;Positivo;0;F;1;Casado;3;CV en persona;156004;SI;1
+315;Florri;Landes;Asistente De Oficina;Argentina;7;Abagael Prat;2;Regular;4;0,308333333;Positivo;0;F;1;Casado;5;Página empresa;74608;SI;1
+316;Gilberte;Frohock;Asistente De Oficina;Argentina;5;Gusti Renshaw;3;Aceptable;3;0,35;Positivo;0;F;2;Divorciado;4;LinkedIn;126225;SI;4
+317;Raynor;Lucey;Asistente De Oficina;Argentina;7;Abagael Prat;2;Regular;4;0,166666667;Positivo;0;F;0;Soltero;5;CV en persona;68667;SI;4
+318;Codi;Kuensch;Asistente De Oficina;Argentina;5;Gusti Renshaw;2;Regular;2;0;Neutro;0;F;0;Soltero;3;Feria de empleo;86075;SI;3
+319;Patti;Barrowman;Asistente De Oficina;Argentina;4;Bianca Miko;3;Aceptable;4;0,466666667;Positivo;1;M;4;Viudo;4;CV en persona;165238;SI;3
+320;Terrance;Torsney;Asistente De Oficina;Argentina;7;Abagael Prat;5;Excelente;5;0;Neutro;0;F;0;Soltero;3;Referido;127156;SI;4
+321;Randene;Raychrudhury;Asistente De Oficina;Argentina;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;5;0;Neutro;1;M;2;Divorciado;5;CV en persona;215562;SI;2
+322;Regen;Boening;Asistente De Oficina;Argentina;4;Bianca Miko;4;Muy bueno;5;0,225;Positivo;0;F;1;Casado;4;CV en persona;108779;SI;5
+323;Lorene;Valsamis;Asistente De Oficina;Argentina;2;Lancelot Schaefer;2;Regular;5;0,7;Positivo;1;M;1;Casado;3;Feria de empleo;183967;SI;3
+324;Celeste;Hoy;Asistente De Oficina;Argentina;2;Lancelot Schaefer;3;Aceptable;2;0,3;Positivo;1;M;2;Divorciado;4;CV en persona;76586;SI;3
+325;Guido;Rola;Asistente De Oficina;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,4;Positivo;1;M;0;Soltero;4;CV en persona;159352;SI;1
+326;Mortimer;Condodina;Asistente De Oficina;Argentina;6;Charles Cecchini;4;Muy bueno;2;0;Neutro;1;M;2;Divorciado;5;CV en persona;190746;SI;5
+327;Freddy;Lazarus;Gerente De Oficina;Argentina;3;Willi Miyake;4;Muy bueno;4;0,6;Positivo;1;M;0;Soltero;4;CV en persona;141064;SI;2
+328;Timothy;Cecchi-Pestellini;Gerente De Oficina;Argentina;5;Gusti Renshaw;2;Regular;4;0,6;Positivo;0;F;1;Casado;3;CV en persona;74264;SI;3
+329;Giuseppe;Grazia;Gerente De Operaciones;Argentina;5;Gusti Renshaw;4;Muy bueno;4;0,15;Positivo;0;F;0;Soltero;5;LinkedIn;131795;SI;5
+330;Meaghan;Saakwa-Mante;Gerente De Operaciones;Argentina;5;Gusti Renshaw;5;Excelente;2;0,48125;Positivo;0;F;0;Soltero;4;Página empresa;62040;SI;4
+331;Bert;Gustafson;Gerente De Operaciones;Argentina;1;Helen Toomer;4;Muy bueno;5;0,22875;Positivo;1;M;0;Soltero;4;CV en persona;183392;SI;2
+332;Guglielma;Lapierre;Gerente De Operaciones;Argentina;4;Bianca Miko;4;Muy bueno;5;0;Neutro;1;M;0;Soltero;3;Feria de empleo;192456;SI;1
+333;Neala;Montagu;Gerente De Operaciones;Argentina;4;Bianca Miko;2;Regular;5;0,035020661;Negativo;0;F;2;Divorciado;3;CV en persona;68484;SI;1
+334;Agnesse;Reyment;Gerente De Operaciones;Argentina;5;Gusti Renshaw;2;Regular;5;0,148611111;Positivo;0;F;1;Casado;3;Feria de empleo;116344;SI;1
+335;Randy;Osteen;Gerente De Operaciones;Argentina;5;Gusti Renshaw;5;Excelente;2;0,8;Positivo;0;F;0;Soltero;3;Página empresa;140362;SI;4
+336;Ailene;Durham;Gerente De Operaciones;Argentina;4;Bianca Miko;2;Regular;5;;Sin evaluar;0;F;0;Soltero;5;Feria de empleo;106830;SI;3
+337;Kimberli;Kholyavenko;Gerente De Operaciones;Argentina;6;Charles Cecchini;3;Aceptable;2;0;Neutro;1;M;0;Soltero;5;CV en persona;210634;SI;4
+338;Earle;Rothman;Directora De Alianzas;Argentina;2;Lancelot Schaefer;2;Regular;4;0,3875;Positivo;0;F;1;Casado;4;CV en persona;159136;SI;4
+339;Joscelin;Butters;Administrador De Pagos;Argentina;5;Gusti Renshaw;3;Aceptable;3;0,198295455;Positivo;1;M;0;Soltero;3;Página empresa;206880;SI;1
+340;Antonetta;Coito;Asesor De Programa;Argentina;6;Charles Cecchini;5;Excelente;3;0;Neutro;0;F;1;Casado;4;LinkedIn;142126;SI;4
+341;Nada;Iltis;Asesor De Programa;Argentina;7;Abagael Prat;2;Regular;4;0,35625;Positivo;0;F;1;Casado;2;Web empleos;84952;SI;3
+342;Stanford;Yankee;Asesor De Programa;Argentina;2;Lancelot Schaefer;3;Aceptable;5;0,187532468;Positivo;1;M;0;Soltero;3;CV en persona;75191;SI;5
+343;Alla;Isenstein;Asesor De Programa;Argentina;3;Willi Miyake;3;Aceptable;4;0,408333333;Positivo;0;F;3;Separado;5;LinkedIn;87414;SI;3
+344;Dodi;Butt;Asesor De Programa;Argentina;1;Helen Toomer;2;Regular;3;0,3;Positivo;0;F;1;Casado;5;Web empleos;131997;SI;1
+345;Luisa;Coster;Asesor De Programa;Argentina;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;5;0,284659091;Positivo;0;F;0;Soltero;4;CV en persona;110000;SI;4
+346;Tad;Saetren;Asesor De Programa;Argentina;1;Helen Toomer;2;Regular;5;0,25;Positivo;1;M;1;Casado;5;CV en persona;96098;SI;1
+347;Catina;Peeler;Asesor De Programa;Argentina;4;Bianca Miko;2;Regular;4;0,316060606;Positivo;1;M;0;Soltero;3;CV en persona;85903;SI;5
+348;Lancelot;Howerton;Asesor De Programa;Argentina;7;Abagael Prat;3;Aceptable;5;0,2385918;Positivo;1;M;0;Soltero;3;CV en persona;122685;SI;4
+349;Normie;Petty;Asesor De Programa;Argentina;6;Charles Cecchini;4;Muy bueno;2;-0,05145;Negativo;0;F;0;Soltero;4;Feria de empleo;170064;SI;4
+350;Joy;Millett;Asesor De Programa;Argentina;1;Helen Toomer;4;Muy bueno;4;0,191153846;Positivo;1;M;0;Soltero;3;Página empresa;147198;SI;1
+351;Korella;Abraham-Scalapino;Asesor De Programa;Argentina;7;Abagael Prat;3;Aceptable;5;0,292323232;Positivo;0;F;0;Soltero;5;Feria de empleo;162329;SI;5
+352;Hetti;Scimone;Asesor De Programa;Argentina;3;Willi Miyake;3;Aceptable;4;0,1125;Positivo;0;F;0;Soltero;5;CV en persona;56900;SI;3
+353;Alexis;Corcoran;Asesor De Programa;Argentina;5;Gusti Renshaw;2;Regular;2;0,299;Positivo;0;F;0;Soltero;4;CV en persona;71159;SI;2
+354;Tera;Landreth;Asesor De Programa;Argentina;7;Abagael Prat;3;Aceptable;4;0,1875;Positivo;1;M;1;Casado;5;CV en persona;155608;SI;5
+355;Daisey;Katz;Asesor De Programa;Argentina;3;Willi Miyake;3;Aceptable;2;0,176643357;Positivo;0;F;0;Soltero;4;CV en persona;140921;SI;2
+356;Marje;Swartz;Asesor De Programa;Argentina;7;Abagael Prat;2;Regular;2;0,276388889;Positivo;1;M;0;Soltero;5;Página empresa;155299;SI;1
+357;Dyanne;Hupper;Asesor De Programa;Argentina;5;Gusti Renshaw;3;Aceptable;3;0,118888889;Positivo;1;M;0;Soltero;5;CV en persona;125785;SI;2
+358;Theodosia;Kligiene;Asesor De Programa;Argentina;3;Willi Miyake;2;Regular;5;;Sin evaluar;0;F;0;Soltero;4;Feria de empleo;81139;SI;4
+359;Parry;Vanderlaan;Asesor De Programa;Argentina;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;3;0;Neutro;0;F;0;Soltero;5;CV en persona;122888;SI;4
+360;Cherida;Satumo;Asesor De Programa;Argentina;5;Gusti Renshaw;4;Muy bueno;2;0,533333333;Positivo;1;M;0;Soltero;3;CV en persona;117832;SI;3
+361;Sheree;Senior;Asesor De Programa;Argentina;7;Abagael Prat;3;Aceptable;4;0,16;Positivo;0;F;1;Casado;5;CV en persona;140587;SI;3
+362;Briny;Sussman;Asesor De Programa;Argentina;7;Abagael Prat;3;Aceptable;3;0,41537037;Positivo;1;M;1;Casado;4;CV en persona;179243;SI;5
+363;Emmalee;Endrenyi;Asesor De Programa;Argentina;5;Gusti Renshaw;4;Muy bueno;2;0,3;Positivo;1;M;1;Casado;4;LinkedIn;102823;SI;1
+364;Jen;Sacks;Asesor De Programa;Argentina;5;Gusti Renshaw;2;Regular;3;0,507142857;Positivo;1;M;0;Soltero;5;CV en persona;115962;SI;2
+365;Nathanial;Roges;Director De Programacion;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,033035714;Negativo;1;M;0;Soltero;3;CV en persona;95966;SI;4
+366;Sorcha;Preston;Director De Programacion;Argentina;7;Abagael Prat;4;Muy bueno;4;0,070332396;Negativo;1;M;2;Divorciado;2;Feria de empleo;139635;SI;3
+367;Constantine;Pitney;Oficial De Programas;Argentina;7;Abagael Prat;4;Muy bueno;4;0;Neutro;1;M;0;Soltero;5;Web empleos;182103;SI;5
+368;Yonina;Prodromou;Oficial De Programas;Argentina;4;Bianca Miko;5;Excelente;2;-0,375;Negativo;0;F;1;Casado;5;Web empleos;155758;SI;2
+369;Matthus;Kaboolian;Oficial De Programas;Argentina;4;Bianca Miko;3;Aceptable;2;0;Neutro;1;M;1;Casado;3;CV en persona;80013;SI;1
+370;Bryana;Blackwill;Oficial De Programas;Argentina;5;Gusti Renshaw;4;Muy bueno;4;0,5;Positivo;0;F;0;Soltero;5;LinkedIn;63651;SI;3
+371;Hanni;Batinti;Oficial De Programas;Argentina;3;Willi Miyake;3;Aceptable;5;0,528571429;Positivo;1;M;0;Soltero;3;CV en persona;123365;SI;1
+372;Ardath;De Gunst;Oficial De Programas;Argentina;4;Bianca Miko;4;Muy bueno;5;0,1640625;Positivo;0;F;0;Soltero;4;LinkedIn;117592;SI;1
+373;Willette;Bendixen;Oficial De Programas;Argentina;1;Helen Toomer;1;Programa de Mejora del Rendimiento;3;0;Neutro;0;F;1;Casado;5;CV en persona;137368;SI;5
+374;Axel;Heemann;Programador;Argentina;1;Helen Toomer;4;Muy bueno;5;0,533333333;Positivo;0;F;1;Casado;3;CV en persona;137430;SI;5
+375;Marit;Signorini;Programador;Argentina;7;Abagael Prat;2;Regular;5;;Sin evaluar;1;M;0;Soltero;4;CV en persona;116263;SI;3
+376;Llewellyn;Favretto;Programador;Argentina;2;Lancelot Schaefer;3;Aceptable;4;0;Neutro;1;M;1;Casado;4;CV en persona;204136;SI;5
+377;Tawsha;Wittman;Programador;Argentina;2;Lancelot Schaefer;4;Muy bueno;3;0;Neutro;1;M;1;Casado;4;CV en persona;104178;SI;5
+378;Gerhardt;Bary;Programador;Argentina;5;Gusti Renshaw;3;Aceptable;4;0;Neutro;0;F;0;Soltero;5;Página empresa;99636;SI;4
+379;Connor;Nagy;Programador;Argentina;3;Willi Miyake;5;Excelente;4;0;Neutro;1;M;0;Soltero;3;Página empresa;137202;SI;2
+380;Bunnie;Lieven;Programador;Argentina;7;Abagael Prat;3;Aceptable;4;0,033333333;Negativo;0;F;3;Separado;5;CV en persona;63513;SI;4
+381;Emily;Allison;Supervisor De Actividades Del Proyecto;Argentina;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,272727273;Positivo;1;M;1;Casado;2;CV en persona;199837;SI;1
+382;Stafani;Brownrigg;Supervisor De Actividades Del Proyecto;Argentina;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0;Neutro;1;M;0;Soltero;5;CV en persona;112332;SI;3
+383;Celeste;Herzig-Marx;Supervisor De Actividades Del Proyecto;Argentina;1;Helen Toomer;3;Aceptable;2;0,2675;Positivo;1;M;0;Soltero;4;LinkedIn;173949;SI;5
+384;Layla;O'Connor;Asistente De Proyecto;Argentina;5;Gusti Renshaw;2;Regular;5;0,375;Positivo;0;F;0;Soltero;1;CV en persona;53455;SI;3
+385;Mame;Remington;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;3;Aceptable;4;0;Neutro;0;F;1;Casado;4;Feria de empleo;57316;SI;4
+386;Marcile;Giggi;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;3;Aceptable;5;0;Neutro;0;F;0;Soltero;5;LinkedIn;57882;SI;3
+387;Jessamyn;Davidsen;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;4;Muy bueno;4;-0,017307692;Negativo;0;F;1;Casado;4;CV en persona;113854;SI;2
+388;Joab;Ginty;Coordinador Del Proyecto;Argentina;4;Bianca Miko;2;Regular;4;0,079166667;Negativo;1;M;0;Soltero;5;CV en persona;66911;SI;2
+389;Adore;Galatioto;Coordinador Del Proyecto;Argentina;7;Abagael Prat;4;Muy bueno;5;0,004469697;Negativo;0;F;0;Soltero;5;CV en persona;66635;SI;3
+390;Jess;Hildebrand;Coordinador Del Proyecto;Argentina;1;Helen Toomer;3;Aceptable;3;-0,25;Negativo;0;F;0;Soltero;4;LinkedIn;55699;SI;3
+391;Arleta;Maffioli;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;4;Muy bueno;2;0;Neutro;0;F;1;Casado;3;CV en persona;59008;SI;1
+392;Melissa;Beacon;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;5;Excelente;4;0,354517906;Positivo;0;F;1;Casado;3;LinkedIn;156544;SI;1
+393;Celesta;Diaferio;Coordinador Del Proyecto;Argentina;4;Bianca Miko;5;Excelente;4;0,1125;Positivo;1;M;0;Soltero;5;Página empresa;183354;SI;5
+394;Willow;Tanner;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;2;Regular;3;0,054648526;Negativo;1;M;1;Casado;3;Feria de empleo;69584;SI;3
+395;Tiffani;Livernash;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;4;0,422857143;Positivo;0;F;3;Separado;1;CV en persona;120065;SI;5
+396;Yancey;Flessas;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;5;Excelente;4;0;Neutro;1;M;0;Soltero;4;Web empleos;171395;SI;2
+397;Dorise;Coccia;Coordinador Del Proyecto;Argentina;4;Bianca Miko;1;Programa de Mejora del Rendimiento;4;0,123809524;Positivo;0;F;0;Soltero;3;CV en persona;70446;SI;5
+398;Lenard;Deramus;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;2;Regular;3;0;Neutro;0;F;1;Casado;5;CV en persona;121837;SI;4
+399;Aubrette;Trowbridge;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;3;Aceptable;5;0,347916667;Positivo;0;F;1;Casado;5;Referido;101522;SI;4
+400;Shamus;Wesley;Coordinador Del Proyecto;Argentina;4;Bianca Miko;5;Excelente;5;1;Positivo;0;F;0;Soltero;4;Feria de empleo;114167;SI;1
+401;Sayer;du Bois;Coordinador Del Proyecto;Argentina;7;Abagael Prat;3;Aceptable;5;;Sin evaluar;0;F;1;Casado;3;CV en persona;68217;SI;4
+402;Paulette;Wurzburg;Coordinador Del Proyecto;Argentina;3;Willi Miyake;3;Aceptable;5;0,9;Positivo;1;M;1;Casado;5;Página empresa;104155;SI;5
+403;Ariella;Ith;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;4;Muy bueno;3;-0,01314;Negativo;1;M;0;Soltero;3;CV en persona;82845;SI;5
+404;Broddie;Belinsky;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;4;Muy bueno;5;0,48;Positivo;0;F;1;Casado;5;LinkedIn;80692;SI;5
+405;Zeke;Pierson;Coordinador Del Proyecto;Argentina;7;Abagael Prat;2;Regular;2;0,5;Positivo;1;M;0;Soltero;5;CV en persona;80647;SI;4
+406;Hymie;Burch;Coordinador Del Proyecto;Argentina;4;Bianca Miko;4;Muy bueno;4;0,386830357;Positivo;0;F;1;Casado;3;Página empresa;66277;SI;4
+407;Kristian;Hundert;Coordinador Del Proyecto;Argentina;1;Helen Toomer;4;Muy bueno;5;0,353051948;Positivo;1;M;1;Casado;5;Feria de empleo;143834;SI;2
+408;Redford;Welpy;Coordinador Del Proyecto;Argentina;7;Abagael Prat;4;Muy bueno;4;0,270833333;Positivo;1;M;0;Soltero;5;CV en persona;111095;SI;3
+409;Gipsy;Rapsomanikis;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;3;Aceptable;4;0;Neutro;0;F;1;Casado;3;CV en persona;157577;SI;2
+410;Barbara-Anne;Finitsis;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;3;Aceptable;4;0,581875;Positivo;1;M;0;Soltero;3;LinkedIn;140608;SI;4
+411;Doreen;Mcdonough-Fiorellini;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;3;Aceptable;4;0,2;Positivo;0;F;0;Soltero;4;Página empresa;127033;SI;1
+412;Sancho;Buck;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;5;Excelente;2;0,26;Positivo;1;M;0;Soltero;3;LinkedIn;92429;SI;4
+413;Abbi;Reiling;Coordinador Del Proyecto;Argentina;1;Helen Toomer;2;Regular;4;0,013286713;Negativo;0;F;0;Soltero;4;LinkedIn;53190;SI;3
+414;Nell;Chiappini;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;3;Aceptable;4;0;Neutro;0;F;1;Casado;3;CV en persona;100808;SI;4
+415;Elyse;Rissland;Coordinador Del Proyecto;Argentina;4;Bianca Miko;2;Regular;5;0,25;Positivo;0;F;2;Divorciado;4;CV en persona;95463;SI;2
+416;Georg;Kokkotou;Coordinador Del Proyecto;Argentina;3;Willi Miyake;3;Aceptable;5;0,74;Positivo;0;F;4;Viudo;4;LinkedIn;73681;SI;2
+417;Jonas;Haefliger;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;4;Muy bueno;4;0,2;Positivo;1;M;1;Casado;4;CV en persona;102934;SI;4
+418;Lazar;Casey;Coordinador Del Proyecto;Argentina;4;Bianca Miko;4;Muy bueno;5;0,093333333;Positivo;0;F;0;Soltero;4;CV en persona;154253;SI;3
+419;Kelcie;Favazza;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;3;Aceptable;3;-0,064285714;Negativo;0;F;0;Soltero;5;CV en persona;71106;SI;3
+420;Libby;randolph;Coordinador Del Proyecto;Argentina;4;Bianca Miko;2;Regular;4;0,107332071;Positivo;0;F;0;Soltero;4;CV en persona;160685;SI;2
+421;Gerrilee;Tsui;Coordinador Del Proyecto;Argentina;4;Bianca Miko;4;Muy bueno;4;0,308888889;Positivo;1;M;1;Casado;5;CV en persona;87690;SI;3
+422;Adelle;Heaney;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;4;Muy bueno;4;0;Neutro;0;F;0;Soltero;5;Web empleos;108262;SI;1
+423;Nev;Moebus;Coordinador Del Proyecto;Argentina;6;Charles Cecchini;4;Muy bueno;1;-0,1;Negativo;1;M;2;Divorciado;4;CV en persona;172555;SI;5
+424;Lori;Nkwah;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;2;Regular;5;0,274382716;Positivo;1;M;1;Casado;3;Feria de empleo;170997;SI;2
+425;Sharl;Stoltzfus;Coordinador Del Proyecto;Argentina;1;Helen Toomer;2;Regular;4;0,173295455;Positivo;0;F;3;Separado;4;Página empresa;109832;SI;4
+426;Ellyn;Paroli;Coordinador Del Proyecto;Argentina;1;Helen Toomer;1;Programa de Mejora del Rendimiento;5;;Sin evaluar;0;F;1;Casado;3;CV en persona;137083;SI;4
+427;Tresa;Reza;Coordinador Del Proyecto;Argentina;1;Helen Toomer;5;Excelente;2;0,137121212;Positivo;1;M;1;Casado;3;LinkedIn;88012;SI;5
+428;Bettye;Sussman;Coordinador Del Proyecto;Argentina;5;Gusti Renshaw;2;Regular;5;0,566666667;Positivo;0;F;3;Separado;5;CV en persona;79850;SI;4
+429;Fabio;Hinkle;Coordinador Del Proyecto;Argentina;2;Lancelot Schaefer;3;Aceptable;4;0,077380952;Negativo;0;F;1;Casado;5;Página empresa;131341;SI;1
+430;Kaja;Balkanski;Coordinador Del Proyecto;Argentina;3;Willi Miyake;3;Aceptable;5;0,266666667;Positivo;1;M;2;Divorciado;3;CV en persona;133975;SI;3
+431;Jerald;Eckehard;Coordinador Del Proyecto;Argentina;3;Willi Miyake;2;Regular;5;0,118136724;Positivo;0;F;2;Divorciado;5;Página empresa;59736;SI;1
+432;Neal;Spence;Coordinador Del Proyecto;Argentina;3;Willi Miyake;4;Muy bueno;4;0,32872807;Positivo;1;M;1;Casado;5;CV en persona;190966;SI;3
+433;Aleks;Mcglasson;Coordinador Del Proyecto;Argentina;1;Helen Toomer;4;Muy bueno;3;0;Neutro;1;M;0;Soltero;5;CV en persona;84594;SI;5
+434;Aileen;Butler;Coordinador Del Proyecto;Argentina;3;Willi Miyake;3;Aceptable;5;0,25;Positivo;0;F;1;Casado;4;CV en persona;166511;SI;5
+435;Brock;Corzett;Experto En Proyectos;Argentina;7;Abagael Prat;3;Aceptable;3;0,28;Positivo;1;M;0;Soltero;3;CV en persona;183755;SI;1
+436;Darcy;Ottile;Experto En Proyectos;Argentina;2;Lancelot Schaefer;4;Muy bueno;3;0,403030303;Positivo;0;F;0;Soltero;4;CV en persona;155014;SI;4
+437;Knox;Lesniewski;Experto En Proyectos;Argentina;5;Gusti Renshaw;3;Aceptable;3;0,255578512;Positivo;0;F;1;Casado;4;Página empresa;73095;SI;5
+438;Pattie;Wan;Experto En Proyectos;Argentina;1;Helen Toomer;2;Regular;5;0,374107143;Positivo;1;M;0;Soltero;4;CV en persona;118545;SI;1
+439;Herbert;Taroni;Experto En Proyectos;Argentina;7;Abagael Prat;4;Muy bueno;5;0,229545455;Positivo;0;F;0;Soltero;3;CV en persona;96790;SI;3
+440;Sonnie;Tramo;Experto En Proyectos;Argentina;3;Willi Miyake;2;Regular;5;0,151801347;Positivo;1;M;1;Casado;5;CV en persona;157464;SI;5
+441;Monika;Abrams;Experto En Proyectos;Argentina;6;Charles Cecchini;4;Muy bueno;3;0;Neutro;0;F;1;Casado;5;CV en persona;103248;SI;4
+442;Murdoch;Coury;Experto En Proyectos;Argentina;7;Abagael Prat;4;Muy bueno;5;0,208091086;Positivo;0;F;0;Soltero;5;LinkedIn;114060;SI;3
+443;Anne;Berkman;Coordinador De Proyecto De Campo;Argentina;3;Willi Miyake;3;Aceptable;4;;Sin evaluar;0;F;1;Casado;4;CV en persona;134393;SI;4
+444;Ethelred;Luther;Coordinador De Proyecto De Campo;Argentina;3;Willi Miyake;2;Regular;3;0,116666667;Positivo;0;F;1;Casado;3;Feria de empleo;86267;SI;3
+445;Linnell;Dijkstra;Gerente De Proyecto;Argentina;5;Gusti Renshaw;2;Regular;4;0,01;Negativo;0;F;0;Soltero;4;Página empresa;103999;SI;5
+446;Melodee;Palmieri;Gerente De Proyecto;Argentina;6;Charles Cecchini;3;Aceptable;4;0;Neutro;0;F;0;Soltero;5;CV en persona;150055;SI;5
+447;Shoshana;Chapin;Gerente De Proyecto;Argentina;2;Lancelot Schaefer;4;Muy bueno;2;0,4;Positivo;0;F;3;Separado;3;CV en persona;147916;NO;1
+448;Hollyanne;Whitla;Gerente De Proyecto;Argentina;1;Helen Toomer;2;Regular;4;0;Neutro;0;F;2;Divorciado;3;Web empleos;120913;NO;1
+449;Oberon;harris;Gerente De Proyecto;Argentina;5;Gusti Renshaw;2;Regular;4;0;Neutro;1;M;1;Casado;2;Feria de empleo;117101;NO;1
+450;Herbie;De Lorenzo;Gerente De Proyecto;Estados Unidos;7;Abagael Prat;3;Aceptable;4;0;Neutro;0;F;0;Soltero;3;Página empresa;161143;NO;0
+451;Flower;Trahan;Gerente De Proyecto;Estados Unidos;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;2;0,319543651;Positivo;0;F;0;Soltero;3;CV en persona;128667;NO;0
+452;Lawton;Weiskel;Gerente De Proyecto;Estados Unidos;2;Lancelot Schaefer;4;Muy bueno;5;0,4194;Positivo;0;F;2;Divorciado;5;Web empleos;144949;NO;1
+453;Herby;Ade;Gerente De Proyecto;Estados Unidos;1;Helen Toomer;5;Excelente;5;0,012247475;Negativo;0;F;2;Divorciado;4;Feria de empleo;162947;NO;1
+454;Ike;Capra;Gerente De Proyecto;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,175;Positivo;0;F;3;Separado;5;CV en persona;52995;NO;0
+455;Kania;Penman;Gerente De Proyecto;Estados Unidos;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;4;0;Neutro;1;M;1;Casado;4;CV en persona;93288;NO;1
+456;Lucio;Gasset;Gerente De Proyecto;Estados Unidos;1;Helen Toomer;3;Aceptable;3;0,283333333;Positivo;0;F;1;Casado;3;Página empresa;149573;NO;2
+457;Dominique;Carini;Gerente De Proyecto;Estados Unidos;3;Willi Miyake;4;Muy bueno;5;0,125;Positivo;0;F;0;Soltero;3;CV en persona;95877;NO;0
+458;Bevvy;Barneson;Gerente De Proyecto;Estados Unidos;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;-0,060714286;Negativo;0;F;1;Casado;4;CV en persona;139109;NO;2
+459;Elisabet;Vitkosky;Gerente De Proyecto;Estados Unidos;6;Charles Cecchini;4;Muy bueno;2;-0,071875;Negativo;0;F;0;Soltero;5;CV en persona;84753;NO;1
+460;Florencia;Scheiber;Gerente De Proyecto;Estados Unidos;2;Lancelot Schaefer;5;Excelente;3;0,316326531;Positivo;1;M;0;Soltero;4;Página empresa;175038;NO;2
+461;Jolene;Veitch;Gerente De Proyecto;Estados Unidos;4;Bianca Miko;4;Muy bueno;4;0,144897959;Positivo;1;M;0;Soltero;5;Referido;139557;NO;2
+462;Vina;Haller;Supervisor De Proyecto;Estados Unidos;4;Bianca Miko;4;Muy bueno;2;0,212121212;Positivo;0;F;1;Casado;3;CV en persona;65401;NO;1
+463;Filbert;Rabi;Supervisor De Proyecto;Estados Unidos;2;Lancelot Schaefer;2;Regular;3;0;Neutro;0;F;1;Casado;5;CV en persona;107870;NO;1
+464;Floria;Heeger;Supervisor De Proyecto;Estados Unidos;2;Lancelot Schaefer;2;Regular;5;0,6;Positivo;0;F;1;Casado;4;CV en persona;63346;NO;2
+465;Celene;Havel;Supervisor De Proyecto;Estados Unidos;7;Abagael Prat;2;Regular;5;0,644444444;Positivo;1;M;0;Soltero;3;LinkedIn;141822;NO;0
+466;Golda;Warwick;Supervisor De Proyecto;Estados Unidos;3;Willi Miyake;3;Aceptable;3;1;Positivo;1;M;1;Casado;3;CV en persona;195494;NO;1
+467;Cynthy;boyd;Supervisor De Proyecto;Estados Unidos;7;Abagael Prat;2;Regular;5;0,104370629;Positivo;1;M;0;Soltero;5;CV en persona;90362;NO;0
+468;Petronia;Sepulveda;Supervisor De Proyecto;Estados Unidos;4;Bianca Miko;3;Aceptable;5;0;Neutro;1;M;1;Casado;5;CV en persona;79257;NO;2
+469;Sam;Mill;Supervisor De Proyecto;Estados Unidos;2;Lancelot Schaefer;4;Muy bueno;5;0,566666667;Positivo;1;M;1;Casado;4;CV en persona;80900;NO;0
+470;Frannie;Gabrielli;Proyecto De Salud Pública;Estados Unidos;7;Abagael Prat;4;Muy bueno;2;0,566666667;Positivo;0;F;2;Divorciado;3;CV en persona;118156;NO;2
+471;Fredi;Haley;Directora De Reclutamiento;Estados Unidos;1;Helen Toomer;4;Muy bueno;5;;Sin evaluar;1;M;1;Casado;5;Referido;211305;NO;1
+472;Madelene;Holoien;Directora De Reclutamiento;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,197916667;Positivo;1;M;2;Divorciado;4;CV en persona;76415;NO;1
+473;Horst;Demerath;Directora De La Oficina De Reclutamiento;Estados Unidos;6;Charles Cecchini;4;Muy bueno;4;0;Neutro;1;M;1;Casado;3;Página empresa;76699;NO;1
+474;Nyssa;Fanton;Directora De La Oficina De Reclutamiento;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,226334776;Positivo;0;F;0;Soltero;5;CV en persona;108931;NO;0
+475;Lauraine;Delozier;Directora De La Oficina De Reclutamiento;Estados Unidos;5;Gusti Renshaw;5;Excelente;5;0,200928641;Positivo;0;F;0;Soltero;3;Página empresa;82994;NO;1
+476;Verney;Attanasio;Directora De La Oficina De Reclutamiento;Estados Unidos;4;Bianca Miko;5;Excelente;2;0,2885578;Positivo;1;M;1;Casado;4;Web empleos;84783;NO;1
+477;Jessi;Merkl;Directora De La Oficina De Reclutamiento;Estados Unidos;3;Willi Miyake;4;Muy bueno;3;0,00974026;Negativo;1;M;1;Casado;3;Feria de empleo;198766;NO;1
+478;Emily;Eng;Directora De La Oficina De Reclutamiento;Estados Unidos;3;Willi Miyake;3;Aceptable;3;-0,8;Negativo;1;M;3;Separado;3;CV en persona;197511;NO;0
+479;Sonnie;Ahlers;Directora De La Oficina De Reclutamiento;Estados Unidos;4;Bianca Miko;2;Regular;3;0,277777778;Positivo;0;F;1;Casado;3;Web empleos;76154;NO;2
+480;Garfinkel;lane;Directora De La Oficina De Reclutamiento;Estados Unidos;6;Charles Cecchini;3;Aceptable;4;0;Neutro;0;F;1;Casado;4;CV en persona;109852;NO;1
+481;Anna;Romanazzi;Directora De La Oficina De Reclutamiento;Estados Unidos;5;Gusti Renshaw;2;Regular;4;0,154090909;Positivo;1;M;1;Casado;3;CV en persona;89762;NO;0
+482;Arlana;Fronteau;Directora De La Oficina De Reclutamiento;Estados Unidos;5;Gusti Renshaw;3;Aceptable;4;0,211111111;Positivo;0;F;0;Soltero;4;Página empresa;134931;NO;2
+483;Anastasie;Soto-Ramirez;Directora De La Oficina De Reclutamiento;Estados Unidos;5;Gusti Renshaw;2;Regular;3;0,5;Positivo;0;F;4;Viudo;4;CV en persona;132844;NO;1
+484;Howie;Loeser;Directora De La Oficina De Reclutamiento;Estados Unidos;5;Gusti Renshaw;5;Excelente;3;0,188888889;Positivo;0;F;0;Soltero;4;Página empresa;109993;NO;1
+485;Alyse;Medin;Directora De La Oficina De Reclutamiento;Estados Unidos;6;Charles Cecchini;4;Muy bueno;4;0;Neutro;0;F;1;Casado;3;CV en persona;105497;NO;1
+486;Friedric;Guarnieri;Directora De La Oficina De Reclutamiento;Estados Unidos;4;Bianca Miko;4;Muy bueno;4;0,49375;Positivo;0;F;0;Soltero;4;CV en persona;61911;NO;2
+487;Renie;Segal;Directora De La Oficina De Reclutamiento;Estados Unidos;1;Helen Toomer;1;Programa de Mejora del Rendimiento;2;0,259343434;Positivo;1;M;4;Viudo;4;CV en persona;109795;NO;0
+488;Kim;Cooley;Directora De La Oficina De Reclutamiento;Estados Unidos;2;Lancelot Schaefer;3;Aceptable;4;0,076136364;Negativo;0;F;0;Soltero;4;Página empresa;77859;NO;1
+489;Katina;Mishina;Directora De La Oficina De Reclutamiento;Estados Unidos;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;5;0,316666667;Positivo;0;F;1;Casado;3;CV en persona;130990;NO;0
+490;Tonnie;Falls;Administrador Regional;Estados Unidos;6;Charles Cecchini;3;Aceptable;3;-0,05;Negativo;0;F;1;Casado;4;CV en persona;83034;NO;0
+491;Arda;Shartraud;Administrador Regional;Estados Unidos;5;Gusti Renshaw;3;Aceptable;5;0,367003367;Positivo;0;F;1;Casado;3;CV en persona;81959;NO;0
+492;Myrilla;Dudek;Administrador Regional;Estados Unidos;7;Abagael Prat;2;Regular;3;1;Positivo;0;F;0;Soltero;5;Feria de empleo;81191;NO;0
+493;Irving;Bordignon;Administrador Regional;Estados Unidos;1;Helen Toomer;2;Regular;4;;Sin evaluar;0;F;1;Casado;4;CV en persona;149079;NO;2
+494;Brodie;Rosendahl;Gerente De Ventas;Estados Unidos;5;Gusti Renshaw;5;Excelente;3;0,098214286;Positivo;0;F;0;Soltero;5;LinkedIn;139265;NO;0
+495;Wynny;Newsweek;Gerente De Ventas Administrador De Contenido;Estados Unidos;4;Bianca Miko;3;Aceptable;5;0,117880952;Positivo;0;F;1;Casado;3;Página empresa;105701;NO;0
+496;Winnie;Matlock;Gerente De Ventas Administrador De Contenido;Estados Unidos;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;2;0;Neutro;1;M;1;Casado;4;CV en persona;135506;NO;0
+497;Dawna;Baczkowski;Oficial Superior De Finanzas;Estados Unidos;5;Gusti Renshaw;2;Regular;2;0,8;Positivo;0;F;0;Soltero;4;Página empresa;58790;NO;1
+498;Ingeberg;Oda;Oficial Superior De Finanzas;Estados Unidos;7;Abagael Prat;2;Regular;4;0,018181818;Negativo;0;F;0;Soltero;4;Feria de empleo;70036;NO;2
+499;Evita;Erdman;Consultor Sénior De Ventas De Vuelos;Estados Unidos;1;Helen Toomer;4;Muy bueno;5;0,59;Positivo;1;M;0;Soltero;3;CV en persona;85535;NO;1
+500;Fredi;Ho-Stuart;Ejecutivo Sénior De Búsqueda Pagada;Estados Unidos;4;Bianca Miko;5;Excelente;5;0,215;Positivo;1;M;0;Soltero;2;LinkedIn;89058;NO;0
+501;Robenia;Bronk;Ejecutivo Sénior De Búsqueda Pagada;Estados Unidos;7;Abagael Prat;2;Regular;2;0;Neutro;1;M;1;Casado;3;Web empleos;98002;NO;2
+502;Kermie;Manly;Programador Principal;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,5;Positivo;1;M;1;Casado;3;CV en persona;183497;NO;1
+503;Eberhard;Nyhagen;Programador Principal;Estados Unidos;5;Gusti Renshaw;5;Excelente;2;0,5;Positivo;0;F;0;Soltero;3;LinkedIn;57011;NO;0
+504;Petronilla;Basquette;Programador Principal;Estados Unidos;4;Bianca Miko;2;Regular;5;0,5;Positivo;1;M;0;Soltero;4;CV en persona;194371;NO;2
+505;Francis;Hobbs;Experto Sénior En Proyectos;Estados Unidos;7;Abagael Prat;5;Excelente;3;0,088095238;Positivo;0;F;1;Casado;3;LinkedIn;52532;NO;0
+506;Michaela;Hendra;Experto Sénior En Proyectos;Estados Unidos;2;Lancelot Schaefer;3;Aceptable;4;0,179411765;Positivo;0;F;2;Divorciado;4;CV en persona;72107;NO;1
+507;Cher;Riordan;Experto Sénior En Proyectos;Estados Unidos;2;Lancelot Schaefer;4;Muy bueno;4;0,359090909;Positivo;1;M;3;Separado;5;CV en persona;211193;NO;2
+508;Bess;Hardenbergh;Experto Sénior En Proyectos;Estados Unidos;2;Lancelot Schaefer;4;Muy bueno;5;0,205483405;Positivo;1;M;0;Soltero;4;CV en persona;204985;NO;0
+509;Paloma;Martinez;Experto Sénior En Proyectos;Estados Unidos;7;Abagael Prat;4;Muy bueno;3;0,077257267;Negativo;1;M;0;Soltero;3;CV en persona;121205;NO;2
+510;Gwendolin;Hare;Experto Sénior En Proyectos;Estados Unidos;4;Bianca Miko;4;Muy bueno;4;0,162051282;Positivo;1;M;0;Soltero;3;CV en persona;179592;NO;1
+511;Floria;Bertino;Gerente Sénior De Seo;Estados Unidos;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;4;;Sin evaluar;1;M;1;Casado;3;CV en persona;101003;NO;2
+512;Shauna;Kenward;Líder De Equipo Sénior;Estados Unidos;4;Bianca Miko;2;Regular;2;0,589393939;Positivo;1;M;1;Casado;5;Página empresa;91911;NO;0
+513;Tobiah;Paciatori;Especialista Seo - Inglés;Estados Unidos;2;Lancelot Schaefer;1;Programa de Mejora del Rendimiento;4;0,07326439;Negativo;0;F;3;Separado;3;CV en persona;78676;NO;2
+514;Kameko;Iverson;Coordinadora De Justicia Social;Estados Unidos;4;Bianca Miko;3;Aceptable;4;0;Neutro;0;F;0;Soltero;5;Feria de empleo;157763;NO;0
+515;Kylie;Petty;Coordinadora De Justicia Social;Estados Unidos;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;3;0,2;Positivo;0;F;0;Soltero;5;CV en persona;90496;NO;1
+516;Ninon;Loveman;Coordinadora De Justicia Social;Estados Unidos;6;Charles Cecchini;2;Regular;3;0;Neutro;0;F;0;Soltero;5;CV en persona;66465;NO;0
+517;Karita;Cover;Gerente De Proyectos De Surf;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,35;Positivo;0;F;0;Soltero;2;CV en persona;162871;NO;1
+518;Moss;Butler-Evans;Gerente De Proyectos De Surf;Estados Unidos;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;0;Neutro;0;F;1;Casado;3;CV en persona;124582;NO;1
+519;Cheslie;l'Enclos;Gerente De Proyectos De Surf;Estados Unidos;3;Willi Miyake;4;Muy bueno;5;1;Positivo;0;F;0;Soltero;3;Página empresa;162369;NO;2
+520;Ronnie;Srednicki;Coordinador De Enseñanza Y Atención;Estados Unidos;7;Abagael Prat;4;Muy bueno;5;0,1;Positivo;1;M;1;Casado;3;Web empleos;90005;NO;0
+521;Englebart;Grenon;Coordinador De Enseñanza Y Atención;Estados Unidos;1;Helen Toomer;3;Aceptable;5;0,26875;Positivo;1;M;0;Soltero;3;CV en persona;205008;NO;0
+522;Bab;Esposito;Coordinador De Enseñanza Y Atención;Estados Unidos;7;Abagael Prat;4;Muy bueno;4;;Sin evaluar;1;M;0;Soltero;5;Web empleos;179633;NO;1
+523;Roanne;Ino;Coordinador De Enseñanza Y Atención;Estados Unidos;1;Helen Toomer;2;Regular;4;-0,2;Negativo;0;F;1;Casado;4;Página empresa;93069;NO;1
+524;Christy;Fajtova;Coordinador De Enseñanza Y Atención;Estados Unidos;1;Helen Toomer;2;Regular;5;0,177160494;Positivo;1;M;0;Soltero;5;Feria de empleo;167020;NO;2
+525;Jesse;Distefano;Supervisor De Enseñanza;Estados Unidos;5;Gusti Renshaw;2;Regular;5;0,145833333;Positivo;1;M;1;Casado;4;Web empleos;116597;NO;1
+526;Sully;Donev;Supervisor De Enseñanza;Estados Unidos;7;Abagael Prat;2;Regular;2;0,6;Positivo;1;M;0;Soltero;5;CV en persona;75351;NO;0
+527;Janean;Rorty;Supervisor De Enseñanza;Estados Unidos;6;Charles Cecchini;3;Aceptable;3;0;Neutro;0;F;1;Casado;5;CV en persona;151316;NO;0
+528;Roselle;Okagbue;Asistente De La Ciudad;Estados Unidos;3;Willi Miyake;3;Aceptable;5;0,1;Positivo;0;F;0;Soltero;4;CV en persona;149224;NO;2
+529;Dinnie;O'Malley;Asistente De La Ciudad;Estados Unidos;5;Gusti Renshaw;4;Muy bueno;3;0,2;Positivo;0;F;1;Casado;5;Referido;163706;NO;1
+530;Jerold;Sealock;Asistente De La Ciudad;Estados Unidos;5;Gusti Renshaw;4;Muy bueno;4;;Sin evaluar;0;F;1;Casado;5;Página empresa;106791;NO;0
+531;Josselyn;Traub;Coordinadora De Viajes Y Voluntariado Auxiliar;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;4;0,264285714;Positivo;0;F;1;Casado;3;CV en persona;61911;NO;0
+532;Chandal;Filman;Coordinadora De Viajes Y Voluntariado Auxiliar;Estados Unidos;4;Bianca Miko;2;Regular;3;0;Neutro;0;F;1;Casado;5;CV en persona;112203;NO;1
+533;Lavena;Scheibner;Coordinadora De Viajes Y Voluntariado Auxiliar;Estados Unidos;6;Charles Cecchini;5;Excelente;1;-0,0625;Negativo;1;M;1;Casado;3;LinkedIn;213337;NO;1
+534;Niles;Villarreal;Coordinador De Viajes;Estados Unidos;6;Charles Cecchini;2;Regular;2;0;Neutro;1;M;0;Soltero;3;CV en persona;90035;NO;2
+535;Carson;Iakovou;Coordinador De Viajes;Estados Unidos;2;Lancelot Schaefer;5;Excelente;3;0,278571429;Positivo;0;F;1;Casado;5;LinkedIn;56515;NO;0
+536;Boris;hanson;Coordinador De Viajes;Estados Unidos;2;Lancelot Schaefer;2;Regular;5;0,533333333;Positivo;0;F;2;Divorciado;4;Web empleos;126131;NO;2
+537;Bert;Girone;Coordinador De Viajes;Estados Unidos;5;Gusti Renshaw;5;Excelente;5;0,109090909;Positivo;1;M;0;Soltero;3;Página empresa;142462;NO;1
+538;Matthus;Lanter;Coordinador De Viajes;Estados Unidos;2;Lancelot Schaefer;3;Aceptable;4;0,26969697;Positivo;0;F;2;Divorciado;5;LinkedIn;155547;NO;1
+539;Zia;Donald;Coordinador De Viajes Y Team Leader;Estados Unidos;6;Charles Cecchini;4;Muy bueno;3;-0,01;Negativo;1;M;1;Casado;4;CV en persona;195301;NO;0
+540;Merlin;Riggs;Editor De Video;Estados Unidos;6;Charles Cecchini;3;Aceptable;1;-0,029166667;Negativo;0;F;1;Casado;4;CV en persona;151623;NO;2
+541;Carley;Rawley;Editor De Video;Estados Unidos;7;Abagael Prat;4;Muy bueno;4;0,081136364;Positivo;1;M;2;Divorciado;5;LinkedIn;82325;NO;1
+542;Marje;Chanatry;Editor De Video;Estados Unidos;4;Bianca Miko;2;Regular;5;0,288961039;Positivo;1;M;1;Casado;3;CV en persona;203850;NO;1
+543;Kelcey;Otteman;Coordinadora De Visas Y Voluntariado;Estados Unidos;7;Abagael Prat;1;Programa de Mejora del Rendimiento;2;0,539285714;Positivo;1;M;2;Divorciado;4;CV en persona;213816;NO;1
+544;Sawyer;Brose;Coordinador De Visas;Estados Unidos;2;Lancelot Schaefer;4;Muy bueno;5;0,111960784;Positivo;0;F;1;Casado;5;Referido;92919;NO;0
+545;Glenine;Menniti;Coordinador De Visas;Estados Unidos;2;Lancelot Schaefer;5;Excelente;5;0,210080214;Positivo;0;F;2;Divorciado;4;Página empresa;60771;NO;2
+546;Dix;Lawton;Coordinador De Visas;Estados Unidos;1;Helen Toomer;3;Aceptable;3;0,301298701;Positivo;1;M;1;Casado;5;Feria de empleo;106447;NO;2
+547;Josiah;Sailer;Administrador De Visas;Estados Unidos;6;Charles Cecchini;2;Regular;2;0;Neutro;1;M;1;Casado;3;CV en persona;116067;NO;2
+548;Nidia;Tecilla;Administrador De Visas;Estados Unidos;5;Gusti Renshaw;5;Excelente;5;0,054545455;Negativo;0;F;1;Casado;3;Referido;92726;NO;2
+549;Chloette;Gledhill;Consejero Voluntario;Estados Unidos;6;Charles Cecchini;4;Muy bueno;5;0,309659091;Positivo;1;M;4;Viudo;5;CV en persona;189686;NO;1
+550;Melisenda;Bradley;Consejero Voluntario;Estados Unidos;3;Willi Miyake;4;Muy bueno;3;-0,075;Negativo;0;F;1;Casado;5;CV en persona;98039;NO;1
+551;Slade;Magliozzi;Consejero Voluntario;España;7;Abagael Prat;4;Muy bueno;4;0;Neutro;0;F;0;Soltero;3;Web empleos;65398;NO;0
+552;Wallas;Guadagno;Consejero Voluntario;España;2;Lancelot Schaefer;4;Muy bueno;5;0,223968254;Positivo;0;F;0;Soltero;3;CV en persona;75474;NO;2
+553;Wiatt;Wepsic;Consejero Voluntario;España;7;Abagael Prat;3;Aceptable;5;-0,025;Negativo;0;F;3;Separado;4;CV en persona;74010;NO;2
+554;Zeke;Policar;Consejero Voluntario;España;7;Abagael Prat;5;Excelente;5;0;Neutro;1;M;0;Soltero;5;Referido;188987;NO;2
+555;Milt;Buerle;Consejero Voluntario;España;6;Charles Cecchini;2;Regular;4;0,348148148;Positivo;1;M;0;Soltero;5;CV en persona;92390;NO;1
+556;Ardra;Valsecchi;Consejero Voluntario;España;7;Abagael Prat;3;Aceptable;4;0,211538462;Positivo;1;M;2;Divorciado;4;CV en persona;118320;NO;0
+557;Hervey;Luster;Consejero Voluntario;España;5;Gusti Renshaw;3;Aceptable;2;0,019940476;Negativo;0;F;1;Casado;3;LinkedIn;117270;NO;0
+558;Lauretta;Douglass;Consejero Voluntario;España;4;Bianca Miko;1;Programa de Mejora del Rendimiento;2;0,0425;Negativo;0;F;0;Soltero;4;CV en persona;109788;NO;0
+559;Alli;Lyndon;Consejero Voluntario;España;4;Bianca Miko;1;Programa de Mejora del Rendimiento;2;0;Neutro;1;M;0;Soltero;5;CV en persona;78621;NO;0
+560;Graeme;Bellavance;Consejero Voluntario;España;2;Lancelot Schaefer;5;Excelente;5;0;Neutro;1;M;1;Casado;3;Página empresa;185723;NO;0
+561;Leta;Mohanram;Consejero Voluntario;España;4;Bianca Miko;5;Excelente;4;0,056868132;Negativo;1;M;2;Divorciado;3;Web empleos;201033;NO;1
+562;Gertrudis;Welles;Consejero Voluntario;España;5;Gusti Renshaw;3;Aceptable;5;0,203472222;Positivo;0;F;1;Casado;3;Web empleos;98846;NO;0
+563;Melvin;Liebling;Consejero Voluntario;España;2;Lancelot Schaefer;3;Aceptable;3;0,25;Positivo;0;F;0;Soltero;5;LinkedIn;114386;NO;0
+564;Terrill;Coletti;Consejero Voluntario;España;5;Gusti Renshaw;3;Aceptable;2;0,366666667;Positivo;0;F;1;Casado;3;CV en persona;107304;NO;0
+565;Gere;Linares;Consejero Voluntario;España;4;Bianca Miko;2;Regular;4;0,38;Positivo;0;F;1;Casado;4;Página empresa;143427;NO;1
+566;Buffy;Mossmann;Consejero Voluntario;España;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;3;0,7;Positivo;1;M;1;Casado;3;CV en persona;118317;NO;1
+567;Marry;Flowerdew;Consejero Voluntario;España;5;Gusti Renshaw;3;Aceptable;5;0;Neutro;0;F;0;Soltero;3;Página empresa;107623;NO;1
+568;Davine;Kronecker;Consejero Voluntario;España;3;Willi Miyake;3;Aceptable;4;0,3125;Positivo;0;F;0;Soltero;4;Página empresa;108318;NO;2
+569;Lemar;Roig;Consejero Voluntario;España;5;Gusti Renshaw;3;Aceptable;4;0,220833333;Positivo;1;M;0;Soltero;3;Página empresa;197738;NO;2
+570;Ray;Pickering;Consejero Voluntario;España;2;Lancelot Schaefer;3;Aceptable;3;0,275719697;Positivo;1;M;2;Divorciado;4;CV en persona;106376;NO;1
+571;Maure;Maravalle;Asesor De Voluntarios Y Asesor De Programas;España;7;Abagael Prat;3;Aceptable;4;0,282272727;Positivo;0;F;1;Casado;4;CV en persona;153242;NO;2
+572;Merrel;Levitt;Asesor De Voluntarios Y Jefe De Equipo;España;4;Bianca Miko;3;Aceptable;5;0,5;Positivo;0;F;0;Soltero;3;Página empresa;101643;NO;2
+573;Amandie;Nunnally;Asesor De Voluntarios Y Jefe De Equipo;España;6;Charles Cecchini;2;Regular;5;0,313321678;Positivo;0;F;1;Casado;3;CV en persona;92551;NO;1
+574;Rickey;Tweedie;Asesor De Voluntarios Y Jefe De Equipo;España;6;Charles Cecchini;5;Excelente;3;0,297619048;Positivo;1;M;1;Casado;4;Página empresa;177179;NO;1
+575;Lauren;Vian;Asesor De Voluntarios Y Jefe De Equipo;España;4;Bianca Miko;4;Muy bueno;3;0,6;Positivo;0;F;1;Casado;2;Feria de empleo;107227;NO;1
+576;Eleonora;Pinto;Asesor De Voluntarios Y Jefe De Equipo;España;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0,35;Positivo;0;F;1;Casado;5;CV en persona;155808;NO;1
+577;Avram;Koss;Asesor De Voluntarios Y Jefe De Equipo;España;3;Willi Miyake;3;Aceptable;3;0;Neutro;0;F;2;Divorciado;4;CV en persona;151923;NO;2
+578;Reed;Haden;Asesor De Voluntarios Y Jefe De Equipo;España;4;Bianca Miko;2;Regular;4;0,357142857;Positivo;0;F;2;Divorciado;4;CV en persona;115979;NO;0
+579;Woodrow;Delafaille;Asesor De Voluntarios Y Jefe De Equipo;España;4;Bianca Miko;2;Regular;4;0,071763393;Negativo;1;M;1;Casado;2;CV en persona;148984;NO;2
+580;Voltaire;Sinclair;Coordinadora De Voluntariado Y Derechos Humanos;España;4;Bianca Miko;2;Regular;4;-0,235416667;Negativo;1;M;0;Soltero;5;CV en persona;146670;NO;2
+581;Dyana;Casacchia;Coordinadora De Voluntariado Y Derechos Humanos;España;3;Willi Miyake;3;Aceptable;4;0;Neutro;1;M;1;Casado;3;CV en persona;202063;NO;1
+582;Barnett;Janecki;Coordinadora De Voluntariado Y Derechos Humanos;España;3;Willi Miyake;3;Aceptable;4;0,6;Positivo;0;F;1;Casado;4;Página empresa;146921;NO;0
+583;Cammi;Crystal;Voluntariado Y Coordinador Deportivo;España;1;Helen Toomer;3;Aceptable;5;0,4;Positivo;0;F;1;Casado;4;Página empresa;76026;NO;1
+584;Renate;Agren;Voluntariado Y Coordinador Deportivo;España;6;Charles Cecchini;2;Regular;4;0,25;Positivo;1;M;1;Casado;5;Feria de empleo;144025;NO;2
+585;Valeda;Poitras;Voluntariado Y Coordinador Deportivo;España;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0;Neutro;0;F;0;Soltero;5;CV en persona;133150;NO;2
+586;Shea;Wisniewski;Asistente Voluntario;España;7;Abagael Prat;4;Muy bueno;3;0;Neutro;1;M;0;Soltero;5;Página empresa;196568;NO;0
+587;Janeczka;Viens;Asistente Voluntario;España;5;Gusti Renshaw;2;Regular;5;0,433333333;Positivo;1;M;1;Casado;3;Página empresa;66400;NO;1
+588;Somerset;Rathbun;Coordinador Voluntario;España;2;Lancelot Schaefer;5;Excelente;5;-0,069821429;Negativo;0;F;1;Casado;5;Feria de empleo;55497;NO;1
+589;Richmond;Schatz;Coordinador Voluntario;España;7;Abagael Prat;4;Muy bueno;4;0,12;Positivo;0;F;1;Casado;3;Referido;165596;NO;1
+590;Nichols;James-Hertenstein;Coordinador Voluntario;España;6;Charles Cecchini;3;Aceptable;5;0,158786214;Positivo;0;F;0;Soltero;3;CV en persona;59321;NO;0
+591;Jane;Oseas;Coordinador Voluntario;España;4;Bianca Miko;3;Aceptable;5;0,176666667;Positivo;0;F;0;Soltero;4;CV en persona;92789;NO;2
+592;Grover;Sauerborn;Coordinador Voluntario;España;4;Bianca Miko;2;Regular;5;0,36;Positivo;1;M;4;Viudo;4;Feria de empleo;119673;NO;1
+593;Anny;Deoliveira;Coordinador Voluntario;España;6;Charles Cecchini;5;Excelente;1;-0,02456;Negativo;0;F;2;Divorciado;5;Web empleos;105144;NO;1
+594;Pier;Monson;Coordinador Voluntario;España;3;Willi Miyake;5;Excelente;3;0,22797619;Positivo;1;M;3;Separado;3;Página empresa;102849;NO;0
+595;Elizabeth;Coughlin;Coordinador Voluntario;España;7;Abagael Prat;2;Regular;5;0,32030303;Positivo;0;F;0;Soltero;5;CV en persona;57256;NO;2
+596;Amelia;Born;Coordinador Voluntario;España;6;Charles Cecchini;5;Excelente;4;0,140240642;Positivo;1;M;1;Casado;3;LinkedIn;103644;NO;2
+597;Caren;Vlachoutsicos;Coordinador Voluntario;España;3;Willi Miyake;4;Muy bueno;4;0,027272727;Negativo;1;M;0;Soltero;3;CV en persona;72388;NO;0
+598;Beret;Loring;Coordinador Voluntario;España;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;5;0,8;Positivo;0;F;0;Soltero;3;CV en persona;71574;NO;0
+599;Rahel;Fattorini;Coordinador Voluntario;España;5;Gusti Renshaw;4;Muy bueno;2;0,380952381;Positivo;1;M;1;Casado;4;CV en persona;170756;NO;1
+600;Sayres;Weisshart;Coordinador Voluntario;España;1;Helen Toomer;3;Aceptable;5;0,1;Positivo;0;F;1;Casado;3;CV en persona;54565;NO;0
+601;Lewis;Pinot;Coordinador Voluntario;México;4;Bianca Miko;3;Aceptable;5;0,051388889;Negativo;1;M;2;Divorciado;5;CV en persona;212659;NO;1
+602;Roderich;Lowenstein;Coordinador Voluntario;México;6;Charles Cecchini;4;Muy bueno;3;0,5;Positivo;1;M;2;Divorciado;3;Feria de empleo;102227;NO;0
+603;Ruddie;Haviland;Coordinador Voluntario;México;7;Abagael Prat;4;Muy bueno;3;0;Neutro;1;M;0;Soltero;4;Web empleos;171412;NO;1
+604;Lester;Marcus;Coordinador Voluntario;México;6;Charles Cecchini;2;Regular;1;-0,02785;Negativo;1;M;1;Casado;3;Feria de empleo;80924;NO;0
+605;Alina;Ciulla;Coordinador Voluntario;México;3;Willi Miyake;5;Excelente;2;0,105555556;Positivo;0;F;1;Casado;5;Página empresa;112216;NO;0
+606;Elsey;Skiotis;Coordinador Voluntario;México;3;Willi Miyake;3;Aceptable;3;0;Neutro;0;F;0;Soltero;3;CV en persona;111201;NO;0
+607;Helaine;Vandegrift;Coordinador Voluntario;México;7;Abagael Prat;5;Excelente;4;0;Neutro;1;M;0;Soltero;5;Web empleos;133036;NO;2
+608;Ashley;Markowitz;Coordinador Voluntario;México;6;Charles Cecchini;3;Aceptable;3;-0,02125;Negativo;0;F;1;Casado;3;CV en persona;155847;NO;0
+609;Vilma;Spengler;Coordinador Voluntario;México;4;Bianca Miko;3;Aceptable;4;0,041666667;Negativo;0;F;0;Soltero;3;CV en persona;121824;NO;2
+610;Sadie;Gibbens;Coordinador Voluntario;México;5;Gusti Renshaw;4;Muy bueno;4;-0,04375;Negativo;1;M;0;Soltero;4;Página empresa;201116;NO;2
+611;Fidelity;Dilwali;Coordinador Voluntario;México;4;Bianca Miko;4;Muy bueno;2;0,166666667;Positivo;0;F;4;Viudo;4;LinkedIn;97763;NO;1
+612;Denys;Spradley;Coordinador Voluntario;México;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;4;0,166666667;Positivo;1;M;0;Soltero;5;CV en persona;105005;NO;0
+613;Concordia;Zane;Coordinador Voluntario;México;2;Lancelot Schaefer;4;Muy bueno;4;-0,028395062;Negativo;1;M;1;Casado;3;CV en persona;145166;NO;2
+614;Derk;Schiano;Coordinador Voluntario;México;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0,4;Positivo;0;F;2;Divorciado;5;CV en persona;128845;NO;1
+615;Magdalene;Romeo;Coordinador Voluntario;México;6;Charles Cecchini;2;Regular;4;0,135540675;Positivo;0;F;0;Soltero;4;CV en persona;177595;NO;0
+616;Milli;Henle;Coordinador Voluntario;México;6;Charles Cecchini;4;Muy bueno;5;0,167916667;Positivo;1;M;0;Soltero;3;Página empresa;221418;NO;2
+617;Valeda;Sellon;Coordinador Voluntario;México;1;Helen Toomer;2;Regular;3;0,204461538;Positivo;0;F;0;Soltero;4;Web empleos;134369;NO;2
+618;Dee Dee;Brathwaite;Coordinador Voluntario;México;7;Abagael Prat;4;Muy bueno;5;0,234312771;Positivo;1;M;0;Soltero;4;Feria de empleo;116640;NO;1
+619;Pearla;Rayner;Coordinador Voluntario;México;3;Willi Miyake;4;Muy bueno;5;0,39;Positivo;0;F;0;Soltero;2;Página empresa;157649;NO;1
+620;Storey;Karpouzes;Coordinador Voluntario;México;3;Willi Miyake;2;Regular;5;0;Neutro;0;F;0;Soltero;5;Feria de empleo;149676;NO;0
+621;Birdie;Lapson;Coordinador Voluntario;México;2;Lancelot Schaefer;4;Muy bueno;5;0,8;Positivo;0;F;0;Soltero;3;Página empresa;128702;NO;2
+622;Aubrey;Drauschke;Coordinador Voluntario;México;3;Willi Miyake;1;Programa de Mejora del Rendimiento;5;0,025595238;Negativo;0;F;4;Viudo;5;CV en persona;52264;NO;2
+623;Nev;Grogin;Coordinador Voluntario;México;5;Gusti Renshaw;3;Aceptable;5;0;Neutro;0;F;0;Soltero;3;Página empresa;164214;NO;1
+624;Ailee;Chaganty;Coordinador Voluntario;México;2;Lancelot Schaefer;2;Regular;4;0;Neutro;0;F;0;Soltero;4;CV en persona;98065;NO;2
+625;Hasheem;Garcilazo;Coordinador Voluntario;México;5;Gusti Renshaw;4;Muy bueno;5;0,025595238;Negativo;1;M;0;Soltero;3;CV en persona;87523;NO;0
+626;Jeannine;Prosser;Coordinador Voluntario;México;6;Charles Cecchini;3;Aceptable;1;-0,02403;Negativo;1;M;2;Divorciado;4;CV en persona;194146;NO;0
+627;Matthew;Korzennik;Coordinador Voluntario;México;2;Lancelot Schaefer;3;Aceptable;5;0,234090909;Positivo;0;F;1;Casado;4;CV en persona;111502;NO;0
+628;Flynn;Fernandez;Coordinador Voluntario;México;2;Lancelot Schaefer;2;Regular;3;0,463636364;Positivo;0;F;0;Soltero;3;Referido;138813;NO;0
+629;Donna;Singarella;Coordinador Voluntario;México;7;Abagael Prat;1;Programa de Mejora del Rendimiento;5;0,65;Positivo;0;F;1;Casado;3;CV en persona;107310;NO;2
+630;Royce;Winship;Coordinador Voluntario;México;2;Lancelot Schaefer;2;Regular;3;-0,15;Negativo;1;M;1;Casado;4;Web empleos;130742;NO;0
+631;Juan;Urbach;Coordinador Voluntario;México;5;Gusti Renshaw;2;Regular;3;1;Positivo;0;F;1;Casado;2;Página empresa;83770;NO;1
+632;Alia;Mortimer;Coordinador Voluntario;México;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;5;0,75;Positivo;0;F;1;Casado;5;CV en persona;124709;NO;1
+633;Linda;Gundersen;Coordinador Voluntario;México;1;Helen Toomer;2;Regular;5;0,3;Positivo;0;F;2;Divorciado;4;CV en persona;137428;NO;0
+634;Shanie;Anglin;Coordinador De Voluntarios - Conservación;México;7;Abagael Prat;3;Aceptable;5;0,733333333;Positivo;0;F;2;Divorciado;4;Página empresa;129074;NO;1
+635;Gustavus;Yeaple;Coordinador De Voluntarios - Conservación;México;1;Helen Toomer;3;Aceptable;4;;Sin evaluar;1;M;1;Casado;2;CV en persona;140224;NO;1
+636;Marisa;Fujimoto;Coordinador De Voluntarios Y Gerente De Finanzas;México;6;Charles Cecchini;1;Programa de Mejora del Rendimiento;3;0,125899621;Positivo;1;M;0;Soltero;5;CV en persona;202074;NO;1
+637;Madelyn;Siebens;Desarrollador Web;México;1;Helen Toomer;3;Aceptable;4;0,5;Positivo;1;M;1;Casado;3;Referido;128585;NO;2
+638;Price;Ramljak;Desarrollador Web;México;4;Bianca Miko;4;Muy bueno;5;0,337142857;Positivo;0;F;1;Casado;4;CV en persona;68207;NO;0
+639;Katy;Garlitz;Desarrollador Web;México;5;Gusti Renshaw;2;Regular;5;0,497272727;Positivo;0;F;1;Casado;4;CV en persona;60964;NO;0
+640;Mabelle;Hamming;Desarrollador Web;México;3;Willi Miyake;4;Muy bueno;4;0;Neutro;1;M;1;Casado;5;CV en persona;72662;NO;2
+641;Deeann;smith;Desarrollador Web;México;4;Bianca Miko;4;Muy bueno;2;0;Neutro;0;F;0;Soltero;5;CV en persona;147450;NO;0
+642;Udall;Hauser;Desarrollador Web;México;1;Helen Toomer;1;Programa de Mejora del Rendimiento;3;0;Neutro;1;M;0;Soltero;5;CV en persona;169781;NO;2
+643;Lizabeth;Heft;Desarrollador Web;México;2;Lancelot Schaefer;2;Regular;5;0;Neutro;1;M;1;Casado;3;CV en persona;74305;NO;2
+644;Laina;Clear;Desarrollador Web;México;5;Gusti Renshaw;1;Programa de Mejora del Rendimiento;5;0,166666667;Positivo;0;F;1;Casado;5;CV en persona;162957;NO;0
+645;Emerson;Hardy;Desarrollador Web;México;4;Bianca Miko;2;Regular;4;0,123770099;Positivo;0;F;1;Casado;3;CV en persona;57212;NO;1
+646;Charlot;Dimopoulos;Desarrollador Web;México;6;Charles Cecchini;3;Aceptable;1;-0,08333;Negativo;0;F;0;Soltero;3;CV en persona;147907;NO;0
+647;Claudette;Depaul;Desarrollador Web;México;2;Lancelot Schaefer;3;Aceptable;5;0,048355811;Negativo;0;F;0;Soltero;4;CV en persona;91159;NO;0
+648;Meggan;Heydarpour;Editor Web;México;2;Lancelot Schaefer;4;Muy bueno;5;0,193181818;Positivo;1;M;4;Viudo;4;Web empleos;94756;NO;2
+649;Darryl;Da Costa;Editor Web;México;6;Charles Cecchini;2;Regular;5;0,370454545;Positivo;0;F;2;Divorciado;5;CV en persona;61729;NO;1
+650;Frazier;Schwartz;Editor Web;México;6;Charles Cecchini;2;Regular;5;0,401428571;Positivo;1;M;3;Separado;3;CV en persona;230513;NO;1
