@@ -4,8 +4,8 @@ Este proyecto de People Analytics tiene como objetivo analizar los canales de re
 🗂️ Estructura del Repositorio
 Canal_reclutamiento/
 ├── Dataset_RRHH.xlsx          # Dataset principal
-├── Database/                  # Scripts y consultas Python
-├── POWER BI/                  # Archivos .pbix de Power BI
+├── Python/                    # Scripts y consultas Python
+├── POWER_BI/                  # Archivos .pbix de Power BI
 ├── R/                         # Scripts de análisis en R
 ├── SQL/                       # Consultas SQL adicionales
 └── README.md                  # Este archivo
