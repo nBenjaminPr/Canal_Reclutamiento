@@ -37,7 +37,7 @@ Distribución de empleados por canal.
 Salario promedio por canal.
 Nivel de satisfacción por canal.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/27c079dc-db0c-4f46-b663-e6770c81134c" />
+![image](https://github.com/user-attachments/assets/e430e65d-fe6b-444d-89b0-79e8d2d3cbf4)
 
 
 📌 Principales Hallazgos
