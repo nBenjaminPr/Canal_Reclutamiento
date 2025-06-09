@@ -4,8 +4,8 @@ Este proyecto de People Analytics tiene como objetivo analizar los canales de re
 🗂️ Estructura del Repositorio
 Canal_reclutamiento/
 ├── Dataset_RRHH.xlsx          # Dataset principal
-├── Database/                  # Scripts y consultas Python
-├── POWER BI/                  # Archivos .pbix de Power BI
+├── Python/                    # Scripts y consultas Python
+├── POWER_BI/                  # Archivos .pbix de Power BI
 ├── R/                         # Scripts de análisis en R
 ├── SQL/                       # Consultas SQL adicionales
 └── README.md                  # Este archivo
@@ -37,7 +37,7 @@ Distribución de empleados por canal.
 Salario promedio por canal.
 Nivel de satisfacción por canal.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/27c079dc-db0c-4f46-b663-e6770c81134c" />
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/c5a5f47b-41de-4ba7-a4a2-5460b2984d16" />
 
 
 📌 Principales Hallazgos
